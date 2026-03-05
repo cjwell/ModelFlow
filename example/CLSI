@@ -1,0 +1,2343 @@
+strain	AMK_CLSI	FEP_CLSI	FOX_CLSI	CZA_CLSI	CAZ_CLSI	CRO_CLSI	COL_CLSI	ETP_CLSI	IMP_CLSI	LEV_CLSI	MEM_CLSI	TZP_CLSI	SXT_CLSI
+573_12771	S	R	R		R	R		R	R	S			R
+573_12777	R	R	R		R	R		R	R	R			S
+573_12778		R	R		R	R		R	R	R			R
+573_12779	R	R			R	R		R	S	R	R	R	R
+573_12780		R			R	R		R	R	R	R	R	S
+573_12781		R			R	R		R	R	R	R	R	R
+573_12783	R	R			R	R		R	R	R	R	R	R
+573_12858	S	R	S		R	R			S		S	R	
+573_12859	S	S	S		R	R			S		S	S	S
+573_12860		R			R	R			S	R	S	R	
+573_12861	S	S	S		S	S			S		S	S	S
+573_12862		S	S		R	R			S	R	S	S	
+573_12863	S	S	S		S	S			S		S	S	S
+573_12864	S				R	R			R	R	R	R	S
+573_12867	S	R			R	R			R	R	R	R	S
+573_12868	S	S	S		S	S			S		S	S	S
+573_12869	S	R	S		R	R			S		S	R	
+573_12870	S	R			R	R			S	R			
+573_12871	S	S	S		S	S			S		S	S	S
+573_12872	S	S	S		S	S			S		S	S	S
+573_12873	S	S	S		S	S			S		S	S	S
+573_12874	S				R	R			S	R	S		S
+573_12875	S	S	S		S	S			S		S	S	S
+573_12876	S	R	S		R	R			S	R	S	R	
+573_12877	S				R	R			S	R			
+573_12878	S	R			R	R			S	R	S	R	
+573_12879	S	S	S		R	R			S	R	S	S	
+573_12880	S				R	R			R	R	R	R	
+573_12881	S	S	S		S	S			S		S	S	S
+573_12883	S	S	S		S	S			S		S	S	S
+573_12884	S	R			R	R			S	R	S	R	
+573_12885	S	S	S		S	S			S		S	S	S
+573_12887		R			R	R			S	R	S	R	
+573_12888					R	R			S	R	S	R	
+573_12889	S	S	S		S	S			S		S	S	S
+573_12890	S	S	S		S	S			S		S	S	S
+573_12891	S	R			R	R			S	R	S	R	
+573_12892	S	R	S			R			S		S	S	
+573_12893	S	R	S		R	R			S	R	S	R	
+573_12894	S	R	S		R	R			S	R	S	R	S
+573_12895	S	S	S		R				S		S	S	S
+573_12896	S	S			R	R			S	R	S		S
+573_12897	S	R	S		R	R			S	R	S	R	
+573_12898	S		S		R	R			S	R	S	R	
+573_12899	S	R	S		R	R			S		S		
+573_12900	S	S	S		S	S			S		S	S	S
+573_12901	S	S	S		S	S			S		S	S	S
+573_12902	S	S	S		S	S			S		S	S	S
+573_12903	S	S	S		S	S			S		S	S	
+573_12905	S	R			R	R			R	R	R	R	
+573_12907	S	S	S		S	S			S		S	S	S
+573_12908	S	S	S		S	S			S		S	S	S
+573_12909	S	R			R	R			S	R	S	R	
+573_12910	S	S			R	S			S		S	R	
+573_12911	S	S	S		R				S		S	S	S
+573_12912	S	S	S		S	S			S		S	S	S
+573_12913	S	R			R	R			R	R	R	R	
+573_12914	S	R	S		R	R			S		S		
+573_12915	S	R			S	R			S		S		
+573_12916	S	S	S		R				S		S		
+573_12917	S	S	S		S	S			S		S	S	S
+573_12918	S	R	S		R	R			S	R	S		
+573_12919	S	R			R	R			S	R	S	R	
+573_12920		R			R	R			S	R	S	R	
+573_12923	S	S	S		S	S			S		S	S	S
+573_12924	S	R			R	R			S		S	R	S
+573_12926	S	S	S		S	S			S		S	S	S
+573_12927	S	S	S		S	S			S		S	S	S
+573_12930		S	S		S	S			S	R	S	S	
+573_12931	S	S	S		R	R			S	R	S	S	S
+573_12932	S		S		R	R			S	R	S	R	
+573_12933	S	S			S	S			S		S	S	S
+573_12935	S	S	S		S	S			S		S	S	S
+573_12936		R			R	R			R	R	R	R	
+573_12937	S	S	S		S	S			S		S	R	S
+573_12938	S	R	S		R	R			S		S		
+573_12940	S	S	S		S	S			S		S	S	S
+573_12942	S	S			R	R			S		S	S	S
+573_12944	S	R	S		R	R			S		S		
+573_12945	S	S			R	R			S	R	S		S
+573_12947	S	R	S		R	R			S	R	S	R	
+573_12948		R				R			R	R	R	R	
+573_12949	S	R	S		R	R			S		S		
+573_12950	S	S	S		S	S			S		S	S	S
+573_12952		R	S		R	R			S		S	R	
+573_12953	S	R	S		R	R			S	R	S		
+573_12954	S	R			R	R			S		S	R	
+573_12955	S	S			S	S			S		S	S	S
+573_12956	S	R			R	R			S	R	S		
+573_12957	S	R	S		R	R			S	R	S		
+573_12958	S		S		R	R			S	R	S	R	
+573_12959	R				R	R					R	S	S
+573_12960	S	S	S		S	S			S		S	S	S
+573_12961	S	S	S		S	S			S		S	S	
+573_12962	S	S			S	S			S		S	S	S
+573_12963	S	S	S		R	S			S		S	S	S
+573_12964	S				R	R			S	R	S		S
+573_12965	S	S			S	S			S		S	S	S
+573_12966	S	R			R	R			R	R	R	R	
+573_12967	S	S	S		S	S			S		S	S	S
+573_12968	S	S			S	S			S		S		S
+573_12969	S	R	S		R	R			S		S		
+573_12970	S				R	R			S	R	S		S
+573_12971	S	R	S		R	R			S		S		
+573_12972	S	R	S		R	R			S		S		
+573_12973	S	R	S		R	R			S	R	S	S	
+573_12974	S	R	S		R	R			S		S		
+573_12975	S	R	S		R	R				R	S	S	
+573_12976	S	R	S		R	R			S	R	S	R	
+573_12977	S	R			R	R			S	R	S		
+573_12978	S	S			S	S			S	R	S	S	
+573_12979	S		S		R	R			S		S	S	
+573_12980	S	S	S		S	S			S		S	S	S
+573_12981		R			R	R			S	R		R	
+573_12982	S	R	S		R	R			S	R	S	S	
+573_12984	S	S			S	S			S		S		
+573_12985	S	S	S		S	S			S		S	S	S
+573_12986	S	S	S		S	S			S		S	S	S
+573_12987		R	S		R	R			S		S	R	
+573_12988	S		S		R	R			S		S	S	
+573_12989	S	S	S		S	S			S		S	S	S
+573_12990		R	S		R	R			S	R	S	R	
+573_12992	S	R	S		R	R			S		S		
+573_12993	S	S	S		S	S			S		S	S	S
+573_12994	S	R	S		R	R			S	R	S		
+573_12996	S	S	S		S	S			S		S		S
+573_12997	S	S	S		S	S			S		S	S	S
+573_12998	S	S	S		S	S			S		S	S	S
+573_12999	S	R	S		R	R			S		S		
+573_13000	S	S	S		S	S			S		S	S	
+573_13001	S	R	S		R	R			S		S		
+573_13003	S	S	S		S	S			S			S	S
+573_13005	S	S	S		S	S			S		S	S	
+573_13006	S	S	S		S	S			S		S	S	
+573_13007	S	R			R	R			R	R	R	R	
+573_13008	S	R			R	R			S	R	S		
+573_13009	S	S			S	S			S		S		S
+573_13010	S	R			R	R			R	R	R	R	
+573_13011		R			R	R			R	R	R	R	S
+573_13012	S	S	S		R				S		S	S	S
+573_13013	S	S	S		S	S			S		S	S	S
+573_13014	S				R	R			S	R	S		S
+573_13016	S	R			R	R			S	R	S		
+573_13017	S	R	S		R	R			S		S	S	
+573_13018	S	R	S			R			S	R	S	S	S
+573_13019	S	R			R	R			R		R	R	S
+573_13021	S	S	S		R	R			S		S	S	S
+573_13022	S	S	S		S	S					S	S	S
+573_13023		R	S		R	R			S	R	S	R	
+573_13024	S	R			R	R			R	R	R	R	S
+573_13025	S		S		R	R					S		
+573_13026	S	S	S		S	S					S	S	S
+573_13027	S	S	S		S	S			S		S	S	S
+573_13028	S	R	S		R	R			S	R	S	R	S
+573_13029	S	S	S		S	S			S		S	S	
+573_13031		R	S		R	R			S		S		
+573_13032			S		R	R			S		S		
+573_13033		S			R	R			S	R	S		
+573_13034	R				R	R			R	R	R	R	
+573_13035					R	R			S	R	S	R	
+573_13036		R	S		R	R			S		S	R	
+573_13037	R	R			R	R			R	R	R	R	
+573_13038		R	S		R	R			S		S	S	
+573_13039	R	R			R	R			R	R	R	R	
+573_13040			S		R	R			S	R	S		
+573_13041	R				R				S	R	S	R	
+573_13042		R			R	R			R	R	R	R	
+573_13043					R	R			S		S	R	
+573_13044	R	R			R					R		R	
+573_13045		S	S		R				S	R	S	R	
+573_13046		R	S			R			R		S	R	S
+573_13047		R	S		R	R			S		S		
+573_13048		S			R	R			R	R	R	R	
+573_13049					R	R			R	R	R	R	
+573_13050		R	S			R			S		S	S	S
+573_13051	R				R	R			S	R	S	S	
+573_13052		R			R	R			R	R	R	R	
+573_13053		R			R	R			R	R	R	R	
+573_13054		R			R	R			S	R	S	R	
+573_13055		R			R	R			S	R	S	R	
+573_13056					S	R			S	R	S		S
+573_13057		S	S						S		S	R	S
+573_13058		S	S		R	R			S		S	S	S
+573_13059		S	S		R	R			S	R	S	R	
+573_13060		R	S		R	R			S		S	S	
+573_13061		R			R	R			S	R	S		
+573_13062		S			R	R			R	R	R	R	
+573_13063		R			R	R			R	R	R	R	
+573_13064		R			R	R			S	R	S		
+573_13065		R			R	R			R	R	R	R	
+573_13066			S		R	R			S	R	S	S	
+573_13067		R			R	R			R	R	R	R	
+573_13068	R	R			R	R			R	R	R	R	
+573_13069	R	R			R	R			S	R	S	R	
+573_13070					R	R			S	R	S	S	S
+573_13071			S		R	R			S	R	S		
+573_13072		R	S		R	R			S	R	S	R	
+573_13073		R			R	R			R	R	R	R	
+573_13074		R	S		R	R			S		S		
+573_13075					R	R			R	R	R	R	
+573_13076		S	S		R	R			S	R	S	R	
+573_13077		S	S		R	R			S	R	S	S	
+573_13079		R			R	R			R	R	R	R	
+573_13080		R	S		R	R			S		S	R	
+573_13081		R	S		R	R			S		S	S	
+573_13082		S			R	R			S	R	S	R	
+573_13083		R			R	R			S	R		R	
+573_13084		R			R	R			S	R	S	R	
+573_13085			S		R	R			S	R	S	S	
+573_13086		R	S		R	R			S	R	S		
+573_13087					R	R			S	R	S	R	
+573_13088		R			R	R			R	R	R	R	
+573_13089		R			R	R			S	R	S	R	S
+573_13090		R	S		R	R			S	R	S	S	
+573_13091			S		R	R			S		S		
+573_13092		R			R	R			S	R	S	R	
+573_13093		R			R	R			S	R	S	R	
+573_13094		R			R	R			S	R		R	
+573_13095		R			R	R			R	R	R	R	
+573_13096		R			R	R			R	R	R	R	
+573_13097		R			R	R			R	R	R	R	
+573_13098		R			R	R			S	R	S	R	
+573_13099		R	S		R	R			S	R	S		
+573_13100			S		S	R			S		S	S	
+573_13101		S			R	R			S	R	S	R	S
+573_13102		R	S		R	R			S		S		
+573_13103			S		S	R			S		S	S	
+573_13104			S		R	R			S		S	S	S
+573_13105		R			R	R			R	R	R	R	
+573_13106		R	S		R	R			S	R	S	R	
+573_13107		R	S		R	R			S	R	S	R	
+573_13108		S			R	R			R	R	R	R	
+573_13109		S			R	R			R	R	R	R	
+573_13110		R			R	R			R	R	R	R	
+573_13111		S			R	R			S	R	S	R	
+573_13112					R	R			S	R	S	R	
+573_13113		S			R	R			R	R	R	R	
+573_13114					R	R			S	R	S		
+573_13115			S		R	R			S		S	S	
+573_13116			S		R	R			S	R	S		
+573_13117						R			S	R	S	R	
+573_13118		R	S		R	R			S		S	S	S
+573_13119		S	S		R	R			S	R	S	R	
+573_13120		R			R	R			S	R	S		S
+573_13121		S			R	R			S	R	S	R	
+573_13122		R	S		R	R			S	R	S	R	
+573_13123		R	S			R			R		S	R	S
+573_13124		R	S		R	R			S	R	S	R	
+573_13125		S	S		R	R			S	R	S		S
+573_13126		R	S		R	R			S	R	S	R	
+573_13127		R			R	R			R	R	R	R	
+573_13128		S			R	R			S	R	S		
+573_13129			S			R			S		S	S	
+573_13130			S		R	R			S		S		
+573_13131		R	S		R	R			S	R	S	R	
+573_13132		R			R	R			R	R	R	R	
+573_13133			S		R	R			S		S	S	
+573_13134			S		S	R			S		S	S	
+573_13135		R			R	R			S	R	S		
+573_13136		S			R	R			R	R	R	R	
+573_13137		S	S		R				S		S	R	
+573_13138	R	R			R	R			R	R	R	R	
+573_13140		S			R	R			R	R	R	R	
+573_13141					S				S		S		
+573_13142		R			R	R			S	R	S	R	
+573_13144		R			R	R			S	R	S		
+573_13145		R			R	R			R	R	R	R	
+573_13146		S	S		R	R			S		S	S	
+573_13147		R	S		R	R			S	R	S		
+573_13148		S	S		R	R			S	R	S		
+573_13149		R	S		R	R			S	R	S		
+573_13150		R	S		R	R			S		S		
+573_13151		S			R	R			S	R	S	R	
+573_13152		R	S		R	R			S	R	S	S	S
+573_13153		R			R	R			R	R	R	R	
+573_13156		R			R	R			R	R	R	R	
+573_13157		S	S		R	R			S	R	S	S	
+573_13158		R	S		R	R			S	R	S	R	S
+573_13159		S			R	R			S	R	S	R	
+573_13160		S			R	R			S	R	R	R	
+573_13161		R			R	R			R	R	R	R	
+573_13162		R			R	R					R	R	
+573_13163		R			R	R			R	R	R	R	
+573_13164		S			R	R			R	R	R	R	
+573_13165		R			R	R			S		S		
+573_13166			S		R	R			S		S		
+573_13168			S		R	R			S		S		
+573_13169		R			R	R			R	R	R	R	S
+573_13170			S		R	R			S		S		
+573_13171		R	S		R	R			S	R	S	R	
+573_13172		S			R	R			R	R	R	R	S
+573_13173		R			R	R			S	R	S	R	
+573_13174		R			R	R			R	R	R	R	S
+573_13175		R			R	R			R	R	R	R	
+573_13176		R			R	R			R	R	R	R	
+573_13177		R			R	R			S	R		R	
+573_13178		R			R	R			R	R	R	R	
+573_13179			S		R	R			S	R	S		
+573_13180		R	S		R	R			S	R	S	R	
+573_13181		R	S		R	R			S	R	S	R	
+573_13182		S			R	R			R	R	R	R	
+573_13183		R			R	R				R	R	R	
+573_13185		S			R	R			S	R	S	R	
+573_13186		R			R	R			R	R		R	
+573_13187		R			R	R			S	R	S	R	
+573_13189		R			R	R			R	R	R	R	
+573_13190		R			R	R			R	R	R	R	
+573_13191		R			R	R			R	R	R	R	
+573_13192		R	S		R	R			S	R	S	R	S
+573_13193		R			R	R			R	R	R	R	
+573_13194		S			R	R			S	R	S	R	S
+573_13195		S			R	R			R	R	R	R	
+573_13196		R			R	R			S	R	S	R	
+573_13197		S			R	R			S	R	S	R	
+573_13198			S		R	R			S		S	R	S
+573_13199			S		R	R			S		S	R	S
+573_13200		R			R	R			S	R	S	R	
+573_13201	R	R			R	R			R	R	R	R	
+573_13202		S			R	R			S	R	R	R	
+573_13203			S		R	R			S		S	S	S
+573_13204		R	S		R	R			S	R	S		
+573_13205	R	R			R	R			R	R	R	R	
+573_13207	R	R			R	R			R	R	R	R	
+573_13208	R	R			R	R				R	R	R	
+573_13209		R			R	R			S	R	S		
+573_13210		R			R	R			R	R	R	R	
+573_13211		R			R	R			R	R	R	R	
+573_13212		S			R	R			R	R	R	R	
+573_13213		S			R	R			R	R	R	R	
+573_13214		R			R	R			R	R	R	R	
+573_13215		R			R	R			R	R	R	R	
+573_13216		R			R	R			S	R	S		
+573_13217		R			R	R			R	R	R	R	
+573_13218		R			R	R			S	R		R	
+573_13219		R			R	R			R	R	R	R	
+573_13220		R			R	R			R	R	R	R	
+573_13221		R			R	R			R	R	R	R	
+573_13222		R			R	R				R	R	R	
+573_13223		S			R	R			S	R	S	R	
+573_13224		S			R	R			R	R	R	R	
+573_13225		R	S		R	R			S	R	S	R	S
+573_13226					R	R			S	R	S	R	
+573_13227					R	R			S	R	S	R	
+573_13228					R	R			S	R	S	S	
+573_13229		R	S		R	R			S		S	S	
+573_13230		R			R	R			S	R	S		
+573_13231		S	S		R	R			S	R	S		S
+573_13232					R	R			S	R	S	R	
+573_13233		R			R	R			R	R	R	R	
+573_13234	R	R			R	R			R	R	R	R	
+573_13235		R			R	R			R	R	R	R	
+573_13236		R			R	R			S	R	R	R	
+573_13237		R			R	R			R	R	R	R	
+573_13238		S			R	R			R	R	R	R	
+573_13239	R				R	R			S	R	S	R	
+573_13240	R	R			R	R			R	R	R	R	
+573_13241		R	S		R	R			S		S	R	S
+573_13242					R	R			S	R	S		S
+573_13243					R	R			S	R	S		S
+573_13244		R	S		R	R			S	R	S		
+573_13245					R	R			S	R	S		S
+573_13246		R	S		R	R			S	R	S	R	
+573_13247		S			R	R			R	R	R	R	
+573_13248		R	S		R	R			S	R	S	R	S
+573_13249		R			R	R			S	R	S		S
+573_13250		R			R	R			S	R	S	R	S
+573_13251		S			R	R			R	R	R	R	
+573_13252	R	R			R	R			R	R	R	R	
+573_13253		R	S		R	R			S	R	S	R	S
+573_13254		R	S		R	R			S	R	S	R	
+573_13255		R			R	R			R	R		R	
+573_13256		R	S		R	R			S	R	S	R	
+573_13257		R			R	R			R	R	R	R	
+573_13258		R	S		R	R			S		S	R	
+573_13259		R			R	R			R	R	R	R	
+573_13260		S			R				S	R	S		
+573_13261		R			R	R			S	R	S	R	
+573_13262			S		R	R			S	R	S	R	S
+573_13263					R	R			S	R	S	R	
+573_13264		S			R	R			S	R	S	R	
+573_13265		R			R	R			S	R	S	R	
+573_13266		S	S		R	R			S	R	S	R	
+573_13267		R			R	R			S	R	S	R	
+573_13268		S			R	R			S	R	S	R	
+573_13269		R			R	R			S	R	S	R	
+573_13270		R	S		R	R			S	R	S	R	S
+573_13271					R	R			S	R	S		
+573_13272		R	S		R	R			S	R	S	S	
+573_13273		R			R	R			R	R	R	R	
+573_13274		S			R	R			R	R	R	R	
+573_13275			S		R	R			S		S	S	
+573_13276		S			R	R			S	R	S	R	
+573_13277			S		R	R			S		S	R	
+573_13278		S			R	R			R	R	R	R	
+573_13279		R	S		R	R			S		S	S	S
+573_13280		S			R	R			S	R	S	R	
+573_13281		R			R	R			S	R	S	R	
+573_13282		R	S		R	R			S	R	S		
+573_13283		R	S		R	R			S	R	S	R	S
+573_13284		R	S		S	R			S	R	S	S	
+573_13285		S			R	R			S	R	S	R	S
+573_13286		S	S		S	R			S		S	S	
+573_13287		R			R	R			S		S		
+573_13288	R	R			R	R			R	R	R	R	
+573_13289		S			R	R			R	R	R	R	
+573_13290		R			R	R			R	R	R	R	
+573_13291		S			R	R			S	R	S	R	
+573_13292					R	R			R	R	R	R	
+573_13293		R	S		R	R			S	R	S	S	S
+573_13294		R			R	R			S	R	S		
+573_13295			S		S	R			S		S	S	
+573_13296		S	S		R				S		S	S	S
+573_13297		S			R				S		S	S	S
+573_13298		R	S		S	R			S		S	S	
+573_13299		S			R	R			S	R	S	R	
+573_13300		R	S		R	R			S	R	S	S	
+573_13301		R	S		R	R			S		S		
+573_13302					R	R			S	R	S		
+573_13303	R	R			R	R			R	R	R	R	
+573_13304		R	S		R	R			S		S		
+573_13305		S			R	R			S	R	S	R	
+573_13306		R	S		R	R			S	R	S	R	
+573_13307	R	R			R	R			R	R	R	R	
+573_13308		R	S		R	R			S	R	S	R	
+573_13309		R	S		R	R			S	R	S	S	
+573_13310		R	S		R	R			S	R	S	S	
+573_13311		R			R	R			S	R	S	R	
+573_13312		R	S		R	R			S	R	S		
+573_13313			S		R	R			S	R	S	R	S
+573_13314		R	S		R	R			S		S	R	
+573_13315		R			R	R			S	R	S	R	
+573_13316		R	S		R	R			S	R	S	R	S
+573_13317		R	S		R	R			S	R	S		
+573_13318			S		R	R			S		S	S	
+573_13319		R	S		R	R			S		S		
+573_13321		S	S		R				S		S	S	
+573_13322	R	R			R	R				R	R	R	
+573_13323		S	S		R	R					S	R	S
+573_13324		S	S		R	R			S	R	S	R	
+573_13325		R			R	R			S		S	R	S
+573_13326		R			R	R			S	R	S	R	
+573_13327					R	R				R		R	
+573_13328		S	S		R	R			S	R	S		
+573_13329			S		R	R			S	R	S		
+573_13330		R	S		R	R			S	R	S	S	
+573_13331		R	S		R	R			S		S		
+573_13332			S		R	R			S		S		
+573_13333		S			R	R			S	R	S	R	
+573_13334		S	S		R	R			S	R	S		S
+573_13335		R	S		R	R			S		S		
+573_13336		S	S		R	R			S	R	S		S
+573_13338		S			R	R			S	R	S	R	
+573_13340		S			R	R			S	R	S	R	
+573_13341		R			R	R			S	R		R	
+573_13342		R			R	R			S	R	S		
+573_13343					R	R			S	R	S		
+573_13344		R	S		R	R			S		S	R	S
+573_13345		R			R	R			S	R	S	R	
+573_13346		R			R	R			R		R	R	S
+573_13347					R	R			S	R	S	R	
+573_13348		R	S		R	R			S	R	S		
+573_13349		R	S		R	R			S		S		
+573_13350		R			R	R			R	R	R	R	
+573_13351		R			R	R			S	R		R	
+573_13352		S	S		R	R			S		S	R	S
+573_13353		R			R	R			S	R	S	R	
+573_13354		S	S		R	R				R	S	R	S
+573_13355		S			R	R			R	R	R	R	
+573_13356		S			R	R			R	R	R	R	
+573_13357		R			R	R			S		S		
+573_13358		R			R	R			R		R	R	S
+573_13359			S		R	R			S		S	S	
+573_13360		S			R	R			S	R	S	R	
+573_13361	R	R			R	R			R	R	R	R	
+573_13362		R			R	R			R	R	R	R	
+573_13363		R			R	R			R	R		R	
+573_13364		R			R	R				R	R	R	
+573_13365		R			R	R			R	R	R	R	
+573_13366		S	S		S	R			S		S	S	S
+573_13368		R			R	R			S	R	S	S	
+573_13369		R			R	R			R	R	R	R	
+573_13370			S		R	R			S		S	S	
+573_13371		R			R	R			S	R	S	R	S
+573_13372		R	S		R	R			S	R	S		
+573_13373		R			R	R			S	R	S	R	
+573_13374		R	S		R	R			S		S	S	
+573_13375		R	S		R	R			S		S		
+573_13376		R	S		R	R			S		S		
+573_13377					R	R			S	R	S	R	
+573_13378		R			R	R			R	R	R	R	
+573_13379		R	S		R	R			S	R	S	S	
+573_13380		S			R	R			R	R	R	R	
+573_13381			S		R	R			S	R	S	S	
+573_13382					R	R			R	R	R	R	
+573_13383		R	S		R	R			S		S	S	
+573_13384		R			R	R			R	R	R	R	
+573_13385		R	S			R			S		S		
+573_13386		R	S		R	R			S	R	S	S	S
+573_13388		R			R	R			S	R	S	R	
+573_13389		R			R	R			R	R	R	R	
+573_13390		R			R	R			R	R	R	R	
+573_13391		R	S		R	R			S	R	S		
+573_13393		R			R	R			S	R	S	R	
+573_13395		S	S		R	R			S	R	S	R	
+573_13396		R	S		R	R			S		S		
+573_13397		R			R	R			R	R	R	R	
+573_13399	R	R			R	R			R	R	R	R	S
+573_13401		S			S				S		S		
+573_13402		S			R	R			R	R	R	R	S
+573_13403		R			R	R			R		R	R	
+573_13404		R			R	R			S	R	S		
+573_13405					R	R			S	R	S		
+573_13406		R			R	R			S	R	S	R	
+573_13407		R	S		R	R			S	R	S	R	
+573_13408		S			S				S		S		S
+573_13409		R	S		R	R			S		S	S	
+573_13411		R	S		R	R			S		S	S	S
+573_13412		R			R	R			R	R	R	R	
+573_13413		R	S		R	R			S	R	S		
+573_13414		R	S		R	R			S		S		
+573_13415					R	R			S	R	S		
+573_13416		S			R	R			S	R	S	R	
+573_13418		R			R	R			S	R	S	R	
+573_13419		R			R	R			R	R	R	R	
+573_13422					R	R			S		S	R	S
+573_13424		R	S		R	R			S	R	S	S	
+573_13425		R			R	R			S	R	S		
+573_13427		S			R	R			R	R	R	R	
+573_13428		R	S		R	R			S		S	R	
+573_13429					R	R			R	R	R	R	
+573_13430		S			R	R			R	R		R	
+573_13431		R			R	R			R	R	R	R	
+573_13434		S			R	R			R	R	R	R	
+573_13435			S		R	R			S	R	S	R	
+573_13436		R	S		R	R			S		S		
+573_13437		R	S		R	R			S	R	S		
+573_13438		R			R	R			R	R	R	R	
+573_13440		R			R	R			R	R	R	R	
+573_13441					R	R			S	R	R	R	
+573_13442		R	S		R	R			S		S	S	
+573_13443			S		S	R			S		S	S	
+573_13444		R			R	R			R	R	R	R	
+573_13445					R	R			S	R	S	R	
+573_13446		S			R	R			S	R	S	R	
+573_13447					R	R			S	R	R	R	
+573_13448		R			R	R			R	R	R	R	S
+573_13449		R			R	R			S	R		R	
+573_13450					R	R			S	R	R	R	
+573_13451		R			R	R				R	R	R	
+573_13452		R	S		R	R			S	R	S		
+573_13453		R	S		R	R			S	R	S	R	
+573_13454		S			R	R			S	R	S	S	S
+573_13455		R			R	R			R	R	R	R	
+573_13456		S	S						S		S	R	S
+573_13457		R			R	R			S		S	R	S
+573_13458			S		R	R			S	R	S		
+573_13459		R	S		R	R			S		S		
+573_13460		S	S		R	R			S	R	S	S	S
+573_13461		R			R	R			S	R	R	R	
+573_13462		S			R	R			S	R		R	
+573_13463		R	S		R	R			S	R	S	R	S
+573_13464			S		R	R			S	R	S		
+573_13465		S			R	R			S	R	S	R	
+573_13466		R			S				S	R	S	R	
+573_13467			S		R	R			S	R	S	R	S
+573_13468			S		R	R			S	R	S		
+573_13469		R	S		R	R			S	R	S		
+573_13470					R	R			R	R	R	R	
+573_13471		R	S		R	R			S		S		
+573_13472		R	S		R	R			S	R	S		
+573_13473		R	S		R	R			S	R	S		
+573_13474		R			S				S	R	S	R	
+573_13475		S			R	R			S	R	S	R	
+573_13476		R			S				S	R	S	R	
+573_13477		R			R	R			S	R	R	R	
+573_13478	R				R	R			R	R	R	R	
+573_13479		R	S		R	R			S	R	S		
+573_13480			S			R			S		S	R	S
+573_13481		S			R	R			S	R	S	R	
+573_13482		S			R	R			S	R	S	R	
+573_13483		R			R	R			R	R	R	R	
+573_13484		R	S		R	R			S		S	S	S
+573_13485		R			R	R			S	R	S	R	
+573_13486		R	S		R	R			S		S		
+573_13487		R			R	R			S	R	S		
+573_13488		R	S		R	R			S	R	S		
+573_13489			S		R	R			S	R	S	S	S
+573_13490		R			R	R			R	R	R	R	
+573_13491		R			R	R			R	R	R	R	
+573_13492					S	R			R		R		
+573_13493		R			R	R			S	R	S	R	
+573_13494		R	S		R	R			S	R	S	S	S
+573_13495		S			R	R			S	R	S	R	
+573_13496		R	S		R	R			S	R	S		
+573_13497		R	S		R	R			S	R	S	R	S
+573_13498					R	R			S		S	R	S
+573_13499		R	S		R	R			S	R	S	R	
+573_13500		R	S		R	R			S	R	S		
+573_13501					R	R			S		S		
+573_13502			S		R	R			S	R	S		
+573_13503		R			R	R			R	R	R	R	
+573_13504		R	S		R	R			S	R	S		S
+573_13505		R			R	R			S	R	S	R	S
+573_13506		R	S		R	R			S	R	S	R	
+573_13507		R	S		R	R			S	R	S	S	
+573_13508		S	S		S				S		S	R	S
+573_13509		R	S		R	R			S		S		
+573_13510		S	S		R	R			S	R	S		S
+573_13511		S	S						S		S	R	S
+573_13512		S			R	R			R	R	R	R	
+573_13513					R	R			R	R	R	R	
+573_13514		R	S		R	R			S		S		
+573_13515		R			S				S	R	S	R	
+573_13516					R	R			R	R	R	R	
+573_13517		R	S		R	R			S	R	S	S	
+573_13518					R	R			R	R	R	R	
+573_13519		S			R	R			S	R	S	R	
+573_13520		S			R	R			S	R	S	R	
+573_13521		R	S		R	R			S		S	R	
+573_13522		S			R	R			R	R	R	R	
+573_13523	R	R			R	R			R	R		R	
+573_13524		R			R	R			R	R	R	R	
+573_13525		R			R	R			R	R	R	R	
+573_13526		R			R	R			R	R	R	R	
+573_13527			S			R			S		S	S	
+573_13528			S		R	R			S	R	S		S
+573_13529			S		R	R			S	R	S		
+573_13530		S			R	R				R	R	R	
+573_13531	R	R			R	R			R	R	R	R	
+573_13532		R	S		R	R			S		S		
+573_13533		R	S		R	R			S	R	S	R	
+573_13534					R	R			S	R	S		
+573_13535		R			R	R			R	R	R	R	
+573_13537					R	R			S	R	S	R	S
+573_13538		R			R	R			S	R	S	R	
+573_13539		R			R	R			S	R	S	R	
+573_13540		R			R	R			S	R	S	R	S
+573_13541					R	R			S	R	S	S	
+573_13542		R			R	R			S	R	S		
+573_13543		R			R	R			R	R	R	R	
+573_13544		R			R	R			S	R	R	R	
+573_13545			S		R	R			S		S		
+573_13546		R			R	R			S	R	S	R	
+573_13547		R			R	R			S	R	S	S	S
+573_13548		S			R	R			R	R	R	R	
+573_13549		R			S				S	R	S	R	
+573_13550		R			R	R			R	R	R	R	
+573_13551					R	R			S	R	S	S	
+573_13552		S			R	R			R	R	R	R	
+573_13553	R	R			S	R			S	R	S	R	S
+573_13554		R	S		R	R			S		S		
+573_13555					R	R			S		S	S	S
+573_13556		R	S			R			S		S	R	
+573_13557		S			R	R			S	R	S	R	
+573_13558		R	S		R	R			S	R	S	R	
+573_13559		R	S		R	R			S	R	S	R	
+573_13560		R	S		R	R			S	R	S	R	
+573_13561		R			R	R			R	R	R	R	
+573_13562		R			R	R			S	R	S	R	
+573_13563		R			R	R			R	R	R	R	
+573_13564		S			R	R			R	R	R	R	
+573_13565	R	R			R	R			R	R	R	R	
+573_13566		R			R	R			R	R	R	R	S
+573_13567			S		S				S		S	R	S
+573_13568		R	S		R	R			S		S	R	
+573_13569		S	S		R	R			S	R	S	R	
+573_13570		S	S						S		S	S	S
+573_13571		S			R	R			S	R	S		
+573_13572		R	S		R	R			S		S		
+573_13573		R			R	R			R	R	R	R	
+573_13574		R			R	R			S	R	S	R	
+573_13575		S			R	R			S	R	S	R	
+573_13576					R				S		S	R	S
+573_13577		R			R	R			R	R	R	R	
+573_13578		R			R	R			R	R	R	R	
+573_13579		R			R	R			S	R	S	R	
+573_13580		R			R	R			S	R	S	R	
+573_13581		S	S		R	R			S	R	S		
+573_13582					R	R			S	R	S	S	
+573_13583		R			R	R			S	R	S		
+573_13584					R	R			S	R	S	R	
+573_13585		R			R	R			R	R	R	R	
+573_13586		R	S		R	R			S	R	S	R	
+573_13587		R			R	R			R	R	R	R	
+573_13588		R	S		R	R			S	R	S	R	
+573_13589		R	S		R	R			S		S	R	
+573_13590			S		R	R			S	R	S	R	
+573_13591		R			R	R						R	
+573_13592		R			R	R			R	R	R	R	S
+573_13593		R			R	R			R	R	R	R	
+573_13594		R	S		R	R			S	R	S	R	
+573_13595		R			R	R			R	R	R	R	
+573_13596			S		R	R			S	R	S	R	
+573_13597		R			R	R			S	R	S		
+573_13598		R			R	R			S	R	S		
+573_13599		R	S		R	R			S		S	R	
+573_13600		R			R	R			R	R	R	R	
+573_13601		S			R	R			S	R	S	R	
+573_13602		R			R	R			S	R	S		
+573_13603		R			R	R			R	R	R	R	
+573_13604		R			R	R			S	R	S		
+573_13605		S			R	R			S	R	S		S
+573_13606					R	R			S	R	S		S
+573_13607			S		R	R			S	R	S	S	
+573_13608		S	S		R				S		S	S	S
+573_13609		R			R	R			S	R	S		
+573_13610		R	S		R	R			S	R	S	S	
+573_13611			S		R	R			S		S		
+573_13612					R	R			S	R	S		
+573_13613		R	S		R	R			S		S	R	
+573_13614		S	S		S	R			S		S	R	S
+573_13615		R			R	R			S	R	S		
+573_13616		R			R	R			R	R	R	R	
+573_13617		S			R	R			R	R	R	R	S
+573_13618			S		R	R			S		S	S	
+573_13619		R			R	R			R	R	R	R	S
+573_13620		R	S		R	R			S	R	S	R	
+573_13621		R			R	R			S	R	S		
+573_13622		R			R	R			S	R	S		
+573_13623					R	R			R	R	R	R	
+573_13624		R			R	R			S	R	S		
+573_13625		R	S		R	R			S	R	S	R	
+573_13626		S			R	R			R	R	R	R	S
+573_13627		S	S		R	R			S		S	S	S
+573_13628		R			R	R			S	R	S	R	
+573_13629		R	S		R	R			S	R	S	R	
+573_13630		R			R	R			S		S		
+573_13631		R			R	R			S	R	S		
+573_13632			S		R	R			S	R	S	R	S
+573_13633		R	S		R	R			S		S		
+573_13634		R			R	R			R	R	R	R	
+573_13635					R	R			S	R	S	R	
+573_13636		R			R	R			S	R	S	R	
+573_13637			S		R	R			S		S	R	
+573_13638		R	S		R	R			S		S	R	
+573_13639			S		R	R			R		S	R	S
+573_13640		R			R	R			R	R	R	R	
+573_13641		R	S		R	R			S	R	S	S	
+573_13642		R			R	R			S		S	S	S
+573_13643		R			R	R			S	R	S		
+573_13644		S			R	R			S	R	S	R	S
+573_13645					R	R			R	R	R	R	
+573_13646		R			R	R			R	R	R	R	
+573_13647			S		R	R			S	R	S	S	
+573_13648					R	R			S	R	S	R	
+573_13649		R	S		R	R			S	R	S	S	
+573_13650		R	S		R	R			S	R	S	R	
+573_13651						R			R		R	R	S
+573_13652		R			R	R			S	R	S	R	
+573_13653	R		S		R	R			S	R	S		
+573_13654		R	S		R	R			S	R	S	R	
+573_13655		R			R	R				R	R	R	
+573_13656		S			R	R			S		S	R	S
+573_13657		S			R	R			R	R	R	R	
+573_13658		S			R	R			R	R	R	R	
+573_13659		R	S		R	R			S	R	S	S	
+573_13660		R	S		R	R			S		S		
+573_13661		S			R	R			R	R	R	R	
+573_13662		R	S			R			S		S	S	
+573_13663		S	S		R				S		S	S	S
+573_13664		S							S		S	R	S
+573_13665		R	S		R	R			S	R	S	R	
+573_13666		R			R	R			R	R	R	R	
+573_13667		R	S		R	R			S	R	S		
+573_13668		R	S		R	R			S	R	S		
+573_13669		R	S		R	R			S		S		
+573_13670		R			R	R			R	R	R	R	
+573_13671			S		R	R			S		S	S	S
+573_13672		R	S		R	R			S		S	R	
+573_13673			S		R	R			S	R	S		
+573_13674		R	S		R	R			S	R	S	R	
+573_13675		R	S		R	R			S		S		
+573_13676		R			R	R			R	R	R	R	
+573_13677			S		R	R			S	R	S	S	
+573_13678		R	S		R	R			S	R	S	R	
+573_13679			S		R	R			S		S	S	
+573_13680		R			R	R			R	R	R	R	
+573_13681		R	S		R	R			S	R	S		
+573_13682	R		S		R	R			S	R	S		
+573_13683		R	S		R	R			S	R	S	R	
+573_13684	R	R			R	R			S	R	S	R	
+573_13685		S			R	R			R	R	R	R	
+573_13686		R			R	R			R	R	R	R	
+573_13687		R	S		R	R			S	R	S		S
+573_13688					R	R			S	R	S	R	
+573_13689		S			R	R			R	R	R	R	
+573_13690			S		R	R			S	R	S	R	
+573_13691		R			R	R			R	R	R	R	
+573_13692		S			R	R			R	R	R	R	
+573_13693		S			R	R			R	R	R	R	
+573_13694		R	S		R	R			S	R	S		
+573_13695		S			R	R			S	R	S	R	
+573_13696		R			R	R			S	R	S	R	
+573_13697		R			R	R			S	R	S		
+573_13698		S	S		R	R			S	R	S	R	
+573_13699		R	S		R	R			S	R	S	R	
+573_13700		S			R	R			S	R	S		S
+573_13701		R	S		R	R			S		S	S	
+573_13702		R	S		R	R			S	R	S		
+573_13703			S		R	R			S		S	S	
+573_13704		R			R	R			R	R	R	R	
+573_13705		R	S		R	R			S		S	R	S
+573_13706		R			R	R			S	R	S	R	
+573_13707	R				R	R			R	R	R	R	
+573_13708		R	S		R	R			S	R	S		
+573_13709		R			R	R			S	R	S	S	
+573_13710		R			R	R			S	R	S	S	
+573_13711		S			R	R			S	R	S	R	
+573_13712		R			R	R			S	R	S	R	
+573_13713		S	S		R	R			S	R	S	R	S
+573_13714		R	S		R	R			S		S		
+573_13715		R			R	R			R	R	R	R	
+573_13716		R	S		R	R			S	R	S		
+573_13717		R	S		R	R			S		S		
+573_13718		R	S		R	R			S	R	S	R	S
+573_13719		S			R	R			S		S	R	S
+573_13720		R	S		R	R			S		S		
+573_13721		R			R	R			R	R	R	R	
+573_13722					R	R			R	R	R	R	
+573_13723		R	S		R	R			S	R	S	S	
+573_13724		R	S		R	R			S	R	S	S	
+573_13725		R			R	R			R	R	R	R	
+573_13726		R	S		R	R			S		S	S	
+573_13727		R			R	R			S	R	S	R	
+573_13728		R			R	R			S	R	S	R	
+573_13729		R	S		R	R			S	R	S	S	
+573_13730		R	S		R	R			S		S		
+573_13731		S			R	R			R	R	R	R	
+573_13732		R	S			R			S		S		
+573_13733		R	S		R	R			S	R	S	S	
+573_13734		R			R	R			S	R	S	R	
+573_13735		S	S		R	R			S		S		
+573_13736		S			S				S		S		S
+573_13737					R	R			S	R	S	R	S
+573_13738		R	S		R	R			S	R	S		
+573_13739		S	S						S		S	R	S
+573_13740		R	S		R	R					S		
+573_13741		R			R	R			S	R	R	R	S
+573_13742		R			R	R			S	R	S	R	
+573_13743		R	S		R	R			S	R	S	R	S
+573_13744			S		R	R			S	R	S	R	
+573_13745			S		R	R			S		S	R	S
+573_13746					R	R			R	R	R	R	
+573_13747		S				R			S	R	S	R	
+573_13748		R	S		S	R			S		S	S	
+573_13749			S		R	R			S	R	S		
+573_13750	R	R			R	R			S	R	S	R	
+573_13751		R			R	R			R	R	R	R	
+573_13752	R	R	S		R	R			S		S	R	
+573_13753					R	R			S	R		R	
+573_13754		S			S				S		S		
+573_13755		S			R	R			R	R	S	R	
+573_13756		R	S		R	R			S	R	S	R	
+573_13757		S			R	R			S	R	S	R	
+573_13758		R	S		R	R			S	R	S		S
+573_13759		R	S		R	R			S	R	S	R	S
+573_13760		S			R	R			S	R	S	R	
+573_13761		S			R	R			S	R	S	R	
+573_13762		R	S		R	R			S	R	S	R	S
+573_13763		S			S				S		S	R	
+573_13764		S	S		R	R			S		S	S	S
+573_13765		R	S		R	R			S	R	S	R	
+573_13766		R			R	R			S	R	S		
+573_13767			S		R	R			S		S	S	
+573_13768			S			R			S		S	S	
+573_13769		R			R	R			R	R	R	R	
+573_13770		S			R	R			R	R	R	R	
+573_13771		R			R	R			R	R	R	R	
+573_13772		R	S		R	R			S	R	S	R	
+573_13773		R			R	R			R	R	R	R	
+573_13774		R	S		R	R			S	R	S		
+573_13775					R	R			S	R	S	R	S
+573_13777		R			R	R			S	R		R	
+573_13778		R			R	R			R	R		R	
+573_13779		R	S		R	R			S	R	S		
+573_13780		S			R	R			S	R	S	R	
+573_13781		S			R	R			R	R	R	R	
+573_13782		S	S		R	R			S	R	S	R	
+573_13783		S			R	R			R	R	R	R	
+573_13784		R			R	R			R	R	R	R	
+573_13785		R			R	R			S	R	S	R	
+573_13786		R			R	R			S	R	S	R	
+573_13787		R	S		R	R			S	R	S	R	S
+573_13788		R			R	R			R	R	R	R	
+573_13789					R	R						R	S
+573_13790		R			R	R			R	R	R	R	
+573_13791			S		R	R			S	R	S		
+573_13792		R	S		R	R			S		S		
+573_13793		R			R	R			R	R	R	R	
+573_13794		R	S		R	R			S		S		
+573_13795		R	S		R	R			S	R	S	R	
+573_13796		R			R	R			R	R	R	R	
+573_13797		R			R	R			R	R	R	R	
+573_13798		R			R	R			R	R	R	R	
+573_13799		R			R	R			R	R	R	R	
+573_13800		R			R	R			S	R	S	R	S
+573_13801		R			R	R			S		S	S	
+573_13802			S		R	R			S	R	S		
+573_13803					R	R			S	R	S	S	
+573_13804		S			R	R			R	R	R	R	
+573_13805		R			R	R			S		S		
+573_13806					R	R			S	R	S		S
+573_13807		R			R	R			R	R	R	R	
+573_13808		R			R	R			R	R	R	R	
+573_13809					R	R			S	R	S		
+573_13810		R			R	R			S	R	S	R	
+573_13811		S			R	R			R	R	R	R	
+573_13812		R			R	R			R	R	R	R	
+573_13813		R			R	R			S	R	S	R	S
+573_13814			S		R	R			S	R	S		
+573_13815			S		R	R			S		S		
+573_13816		R			R	R			R	R	R	R	
+573_13817		R	S		R	R			S		S		
+573_13818		R	S		R	R			S	R	S	S	
+573_13819		R			R	R			R	R	R	R	
+573_13820		R			R	R			S		S	R	
+573_13821		R			R	R			S	R	S	R	
+573_13822		R			R	R			S		S	R	
+573_13823		R	S		R	R			S	R	S		
+573_13824					R	R			S	R	S	S	
+573_13825		R	S		R	R			S		S		
+573_13826		R			R	R			S	R	S		
+573_13827		R			R	R			S	R	S	R	
+573_13828		R			R	R			S	R	S	R	
+573_13829		S	S		R	R			S	R	S	R	
+573_13830		S			R	R			S	R	S	R	
+573_13831		R			R	R			R	R	R	R	
+573_13832		R	S		R	R			S	R	S		S
+573_13833		R	S		R	R			S		S		
+573_13834		S			S				S		S	R	
+573_13835			S		S	R			S		S	S	
+573_13836					R	R			R	R	R	R	
+573_13838			S		R	R			S	R	S		
+573_13839		R	S		R	R			S	R	S	R	
+573_13840		R			R	R			R	R	S	R	
+573_13841			S		R	R			S		S		
+573_13842		R			R	R			R	R	R	R	
+573_13843		R	S		R	R			S		S	S	
+573_13844					R				S		S	R	
+573_13845					R				S		S	R	
+573_13846		R			R	R			R	R	R	R	
+573_13847		R			R	R			R	R	R	R	
+573_13848		R	S		R	R			S		S		
+573_13849	R	R			R	R			R	R	R	R	
+573_13850		R			R	R			R	R	R	R	
+573_13851					R	R			S	R	S	R	
+573_13852		R			R	R			R	R	R	R	
+573_13853		S	S						S		S	R	S
+573_13854					R	R			R	R	R	R	
+573_13855		S			R	R			R	R	R	R	
+573_13856			S		R	R			S	R	S		
+573_13857		R	S		R	R			S	R	S	S	
+573_13858		R			R	R			S	R	S	R	
+573_13859		R	S		R	R			S	R	S		
+573_13860			S			R			S	R	S	S	S
+573_13861	R	R			R	R			R	R	R	R	
+573_13862			S		R	R			S	R	S	R	
+573_13863		R			R	R			S	R	S	R	
+573_13864		R			R	R			S	R		R	
+573_13865		S			R	R			R	R	R	R	
+573_13866		R			R	R				R	R	R	
+573_13867		R			R	R			R	R	R	R	S
+573_13868			S		S	R			S	R	S	S	
+573_13869		R			R	R			S	R	S	R	
+573_13870		R	S		R	R			S		S	S	S
+573_13871			S		R	R			S	R	S		
+573_13872		R			R	R			R	R	R	R	
+573_13873		R			R	R			S	R	S	R	
+573_13874		R	S			R			S		S	S	
+573_13875		R	S		R	R			S	R	S	S	
+573_13876			S		R	R			S	R	S		
+573_13877			S		R	R			S	R	S		
+573_13878			S		R	R			S	R	S		
+573_13879		R			R	R			R	R	R	R	
+573_13880		R			R	R			S	R	S		
+573_13881		R			R	R			R	R	R	R	
+573_13882		R	S		R	R			S		S		
+573_13883					R	R			S	R	S	R	
+573_13884		R	S		R	R			S	R	S		
+573_13885		R	S		R	R			S	R	S		S
+573_13886					R	R			S	R	S	R	
+573_13887		R			R	R			R	R	R	R	
+573_13888			S		R	R			S	R	S		
+573_13889		R	S		R	R			S	R	S		
+573_13890			S			R			S	R	S	S	
+573_13891		S			R	R			S		S	S	
+573_13892		R	S		R	R			S	R	S		
+573_13893		R			R	R			S	R	S	R	
+573_13894		S			R	R			R	R	R	R	
+573_13895	R		S		R	R			S	R	S	S	
+573_13896					R	R			S	R		R	
+573_13897		R	S		R	R			S		S	R	
+573_13898		R	S		R	R			S	R	S	R	
+573_13899		S	S		S	R			S		S	S	
+573_13900					R	R			R	R	R	R	
+573_13901		R			R	R			S	R	S		
+573_13902			S		R	R			S	R	S		
+573_13903		R	S		R	R			S	R	S		S
+573_13904		R			R	R			S	R	S	R	
+573_13905		R			R	R			R	R	R	R	S
+573_13906					R	R			S	R	S	R	
+573_13907		R			R	R			S	R	S	R	
+573_13908		R			R	R			R	R	R	R	
+573_13909		R			R	R			R	R	R	R	
+573_13910					R	R			S	R	S		
+573_13911		R			R	R			R	R	R	R	
+573_13912		R	S		R	R			S	R	S	R	S
+573_13913		R			R	R			R	R	R	R	S
+573_13914			S			R			S		S	S	
+573_13915					R	R			S	R	S	R	
+573_13916		R			R	R			R	R	R	R	
+573_13917		R			R	R			S	R	S	R	
+573_13918		R			R	R			R	R	R	R	
+573_13919		R			R	R			R	R	R	R	
+573_13920		R			R	R			R	R	R	R	S
+573_13921		R			R	R			S	R	S	R	
+573_13922		R			R	R			S	R	S	R	
+573_13923		R			R	R			R	R	R	R	
+573_13924		R			S	R			S		S	S	
+573_13925			S		R	R			S		S	R	
+573_13926		R			R	R			S	R	S	R	
+573_13927		R	S		R	R			S	R	S		S
+573_13928		S	S		R				S		S	S	S
+573_13929		R	S		R	R			S		S		
+573_13930		R			R	R			R	R	R	R	
+573_13931		R			R	R			R	R	R	R	S
+573_13932		R			R	R			S	R	S	R	
+573_13933		R			R	R			R	R	R		
+573_13934		R	S		R	R			S	R	S	S	
+573_13935		R			R	R			S		S		
+573_13936					S	R			S	R	S	S	
+573_13937		R			R	R			R	R	R	R	
+573_13938		R			R	R			R	R	R	R	
+573_13939		R			R	R			R	R	R	R	S
+573_13940					R	R			R	R	R	R	S
+573_13941		R			S	R			R	R		R	
+573_13942					R	R			R	R	R	R	
+573_13943					R	R			S		S	R	
+573_13944		S	S			R			R	R		R	
+573_13945		R	S		R	R			S	R	S	R	
+573_13946		R			R	R			S	R	S	S	
+573_13947		S			R	R			R	R	R	R	
+573_13948		S			R	R			S	R	S	R	
+573_13949		R	S		R	R			S	R	S	S	
+573_13950		R	S		R	R			S	R	S		
+573_13951		R			R	R			R	R	R	R	
+573_13952		R			R	R			R	R	R	R	
+573_13953		R	S		R	R			S	R	S	R	S
+573_13954		S			R	R			R	R	R	R	
+573_13955					R	R			R	R	R	R	S
+573_13956		S			R	R			R	R	R	R	
+573_13957		R	S			R			R	R		R	
+573_13958		R			R	R			R	R	R	R	
+573_13959		S	S		R	R			S	R	S		
+573_13960		R			R	R			R	R	R	R	
+573_13961					R	R			R	R	R	R	
+573_13962		S	S		R				S	R	S	S	S
+573_13963					R	R			S	R	S	R	
+573_13964		R			R	R			S	R	S	R	
+573_13965		R			R	R			R	R	R	R	
+573_13966		R	S		R	R			S	R	S		
+573_13967		S			S				S		S		
+573_13968		R			S	R			S	R	S	S	S
+573_13969		R	S		R	R			S	R	S	S	
+573_13970		R	S		R	R			S	R	S	S	
+573_13971		R			R	R			R	R	R	R	
+573_13972		R	S		R	R			S	R	S		
+573_13973		R			R	R			R	R	R	R	
+573_13974					R	R			S	R	S	R	S
+573_13975		R			R	R			R	R	R	R	
+573_13976		R	S		R	R			S	R	S	S	S
+573_13977			S		R	R			S	R	S	S	S
+573_13978		R			R	R			R	R	R	R	
+573_13979					R	R			S	R	S	R	
+573_13980		S	S		S				S		S	R	S
+573_13981		R			R	R			R	R	R	R	S
+573_13982					R	R			S	R	S	R	
+573_13983					R	R			S	R	S	R	
+573_13984		R	S		R	R			S	R	S		
+573_13985		R	S		R	R			S	R	S		
+573_13986		R			R	R			R	R		R	
+573_13987		R	S		R	R			S	R	S	R	
+573_13988		R	S		R	R			S	R	S	R	
+573_13989		R			R	R			R	R	R	R	
+573_13990					R	R			R	R	R	R	
+573_13991		R			R	R			R	R	R	R	
+573_13992			S		R	R			S	R	S		
+573_13993	R	R			R	R			S		S	R	S
+573_13994		R	S		R	R			S	R	S		
+573_13995		R	S			R			S		S	S	S
+573_13996		R	S		R	R			S	R	S	R	
+573_13997		R			R	R			R	R		R	
+573_13998	R	R	S		R	R			S	R	S	R	S
+573_13999	R	R	S		R	R			S	R	S	R	
+573_14000		R			R	R			S	R	R	R	
+573_14001		S			R	R			R	R	R	R	S
+573_14002		R			R	R			S	R	R	R	
+573_14003			S		R	R			S	R	S	S	S
+573_14004		R			R	R			S	R	S	R	
+573_14005		S			R	R			R	R	R	R	
+573_14006		R	S		R	R			S	R	S	R	
+573_14007		R			R	R			S	R	S		S
+573_14008		R	S		R	R			S	R	S	S	
+573_14009		S			R	R			R	R	R	R	
+573_14010		R			R	R			S	R	S	R	
+573_14011					R	R			R	R	R	R	
+573_14012		S			R	R			S	R	S	R	
+573_14013		S			S				S		S		S
+573_14014		R	S		R	R			S	R	S	R	
+573_14015					R	R			S	R	S		
+573_14016		S	S		R	R			S	R	S	R	
+573_14017		S			R	R			S	R	S	R	
+573_14018		S			R	R			S	R	S	R	
+573_14019		S			R	R			S	R	S	R	
+573_14020		S			R	R			S	R	S	R	
+573_14022		R			R	R			R	R	R	R	S
+573_14023		R			R	R			R	R	R	R	S
+573_14024		R	S		R	R			S	R	S		
+573_14026		R	S		R	R			S		S	S	
+573_14027		R	S			R			S		S	S	
+573_14028			S		R	R			S	R	S	R	
+573_14029		S	S		R	R			S	R	S	R	
+573_14030		R	S		R	R			S	R	S	R	
+573_14031		R			R	R			S	R		R	
+573_14032		R			R	R			S	R	S	R	
+573_14033					R	R			R	R	R	R	
+573_14034		R	S		R	R			S	R	S	R	
+573_14035		S			R	R			S	R	S	R	
+573_14036	R				R	R			S	R	S		
+573_14037		R			R	R			S	R	S	R	
+573_14038		S			R	R			S	R	S	R	
+573_14039		S			R	R			S	R	S	R	
+573_14040					R	R			R	R	R	R	
+573_14041		R	S		R	R			S	R	S		
+573_14042					R	R			S	R	S	R	
+573_14043		R	S			R			S		S		
+573_14044		R			R	R			S	R	S	R	
+573_14045		R	S		R	R			S	R	S		
+573_14046					R	R			S	R	S	R	
+573_14047		R			R	R			S		S	R	
+573_14048		R			R	R			S	R		R	
+573_14049		R			R	R			S	R	S	R	
+573_14050		R			R	R			R	R	R	R	
+573_14051		R			R	R			S	R	S		
+573_14052		R			R	R			R	R	R	R	
+573_14053		R			R	R			R	R		R	
+573_14054			S		R	R			S	R	S	R	
+573_14055		S	S		R	R			S	R	S	S	S
+573_14056					R	R			R	R	R	R	
+573_14057		R			R	R			S	R	S	R	
+573_14058	R	R			R	R			R	R	R	R	
+573_14059		R	S		R	R			S		S	S	S
+573_14060	R	R			R	R			R	R	R	R	
+573_14061		R			R	R			R	R	R	R	
+573_14062		R	S		R	R			S	R	S	R	
+573_14063			S			R			S	R	S	R	
+573_14064		S							S		S	R	
+573_14065		S			R	R			S	R	S	R	
+573_14066	R	R			R	R			S	R	R	R	
+573_14067		R			R	R			S	R	S	R	S
+573_14068		S			R	R			S	R	S	R	
+573_14069		S			R	R			S	R	S	R	
+573_14070			S		R	R			S		S	S	
+573_14071			S		R	R			S		S		
+573_14072		R	S		R	R			S	R	S	S	
+573_14073		S			S				S		S		
+573_14074		S			R	R			S	R		R	
+573_14075		R	S		R	R			S	R	S	R	S
+573_14076		R			R	R			S	R	R	R	
+573_14077					R	R			S	R		R	
+573_14078		R			R	R			S	R	S	R	
+573_14079					R	R			R	R	R	R	S
+573_14080		R			R	R			S	R	S	R	
+573_14081	R	R			R	R			S	R	R	R	
+573_14082		R	S		R	R			S	R	S	S	
+573_14083		R			R	R			S	R	S	R	
+573_14084		R			R	R			R	R	R	R	
+573_14085		R			R	R			R	R	R	R	
+573_14086					R	R			S		S		
+573_14087		R			R	R			S	R		R	
+573_14088		S			R	R			S	R	S	R	
+573_14089		S			R	R			S	R	S	R	
+573_14090	R	R			R	R			R	R	R	R	
+573_14091					R	R			R	R	R	R	
+573_14092		R	S		R	R			S	R	S	R	S
+573_14093		S			R	R			S	R	S	R	
+573_14094		R	S		R	R			S	R	S	S	
+573_14095		R			R	R			S	R	S		
+573_14096					R	R			R	R		R	
+573_14097		R			R	R			R	R	R	R	
+573_14098					R	R			R	R	R	R	
+573_14099		S			R	R			S	R	S	R	
+573_14100		R	S		R	R			S	R	S		
+573_14101		R	S		R	R			S		S	S	
+573_14102		R			R	R			S	R	S	R	
+573_14103		R	S		R	R			S	R	S	S	
+573_14104		R	S			R			S		S	R	
+573_14105		R			R	R			R	R	R	R	
+573_14106		R			R	R			S	R	S	R	
+573_14107		R			R	R			S	R	S	R	
+573_14108		R	S		R	R			S		S	S	
+573_14109		S			R	R			R	R	R	R	
+573_14110		R			R	R			S	R	S	R	
+573_14111		R	S		R	R			S	R	S	R	
+573_14112		R			R	R			S	R	S	S	
+573_14113					R	R			S	R	S	R	
+573_14114	R	R			R	R			R	R	S	R	
+573_14115	R	R			R	R			R	R		R	
+573_14116		R			R	R			S	R	S	R	
+573_14117		R	S			R			S		S	R	
+573_14118		S			R	R			R	R	R	R	
+573_14119		R	S		R	R			S	R	S		
+573_14120					R	R			S		S		
+573_14121		R			R	R			S	R	S		S
+573_14122	R		S		R	R			S	R	S		
+573_14123		R			R	R			S	R	S	R	
+573_14124		R	S		R	R			S	R	S	R	S
+573_14125	R	R			R	R			S	R	S	R	
+573_14126					R	R			S	R		R	
+573_14127		R			R	R			S	R	S	R	
+573_14128		R			R	R			S	R	R	R	
+573_14129		R			R	R			S	R	S		
+573_14130		R			R	R			S	R	S	R	
+573_14131		R			R	R			S	R	S	S	S
+573_14132		R	S		R	R			S	R	S	R	S
+573_14133					R	R			R	R	R	R	
+573_14134		R	S		R	R			S	R	S		
+573_14135			S		R	R			S		S	R	
+573_14137	R	R			R	R			R	R	R	R	
+573_14138					R	R			R	R	R	R	
+573_14139	R	R			R	R			S	R	S	R	
+573_14140					R	R			S	R	S	S	
+573_14141		S	S		R				R	R	S	S	
+573_14142					R	R			S	R	S	R	
+573_14143		S			R	R			S	R	S	R	
+573_14144		S			R	R			S	R		R	
+573_14146	R	R			R	R			R	R	S	R	
+573_14147		S	S		R	R			S	R	S	R	
+573_14148	R	R			R	R			R	R	R	R	
+573_14149					R	R			S	R	S		
+573_14150		S			S				S		S		S
+573_14151		R	S		R	R			S	R	S		
+573_14152		S			R	R			S	R		R	
+573_14153	R	R			R	R			R	R	R	R	
+573_14154					R	R			S	R	S	R	S
+573_14155		S	S		R	R			S	R	S	R	
+573_14156					R	R			S	R	S	R	
+573_14158		R			R	R			R	R	R	R	
+573_14159		S			R	R			S	R	S	R	
+573_14160		R			R	R			S	R	S		
+573_14161		R	S		R	R			S	R	S	R	
+573_14162		S			R	R			S	R	S	R	
+573_14163					R	R			R	R	R	R	
+573_14164		R	S		R	R			S	R	S		
+573_14165	R	R			R	R			S	R		R	
+573_14166		S			R	R			S	R	S	R	
+573_14167		S			R	R			R	R	R	R	
+573_14168		S			R	R			R	R	R	R	
+573_14169		R	S		R	R			S		S		
+573_14170			S		R	R			S		S	R	S
+573_14171		S	S						S		S	R	S
+573_14172		S			R	R			S	R	S	R	
+573_14173		S			R	R			S	R	S	R	
+573_14174		S			R	R			S	R	S	R	
+573_14175	R	R			R	R			R	R	S	R	
+573_14176		S			R	R			S	R	S	R	
+573_14177		R			R	R			S	R	S	R	
+573_14178	R	R			R	R			R	R	S	R	
+573_14179		R			R	R			S	R	R	R	S
+573_14180			S		R	R			S	R	S	R	
+573_14181	R	R			R	R			R	R	R	R	
+573_14182		R			R	R			S	R	S	R	
+573_14183					R	R			R	R	R	R	
+573_14184		R			R	R			R	R	R	R	
+573_14185	R				R	R			R	R	R	R	
+573_14186		R			R	R				R	R	R	
+573_14187		S			R	R			S	R		R	
+573_14188		S			R	R			S	R	S	R	
+573_14189		R			R	R			S	R	S	R	
+573_14190		R	S		R	R			S	R	S		
+573_14191		R	S		R	R			S	R	S	S	
+573_14192		S			R	R			S	R	S	R	
+573_14193			S		R	R			S	R	S	R	
+573_14194			S		R	R			S	R	S	R	
+573_14195					R	R			S	R	S	R	
+573_14196		R	S		R	R			S	R	S	S	S
+573_14197					R	R			R	R	R	R	
+573_14198		R	S		S	R			S		S	S	
+573_14199		R			R	R			S	R	S		
+573_14200		R			R	R			R	R	R	R	
+573_14201		S	S		S	R			S		S	S	
+573_14202		S			R	R			S	R	S	R	
+573_14203		R	S		R	R			S	R	S		
+573_14205		R			S	R			S		S		
+573_14206		S			R	R			R	R	R	R	
+573_14207					R	R			S	R	S	R	
+573_14208		R	S		R	R			S	R	S		
+573_14209		R			R	R			S	R	S	R	
+573_14210		R			R	R			R	R	S	R	
+573_14211			S		R	R			S	R	S	S	
+573_14212		S			R	R			S	R	R	R	
+573_14213		S	S		R	R			S	R	S	R	
+573_14215		R	S		R	R			S	R	S	S	S
+573_14216		S	S		R	R			S	R	S	R	
+573_14217		S			R	R				R	R	R	
+573_14218	R	R			R	R			S	R	S	R	
+573_14219		R	S		R	R			S		S		
+573_14220		R			R	R			R	R	R	R	
+573_14221		S	S		R	R			S	R	S	R	
+573_14222		S			R	R			R	R	R	R	
+573_14223					R	R			R	R	R	R	
+573_14224		R			R	R			S	R	S	R	
+573_14225					R	R			R	R	R	R	
+573_14226		R			R	R			R	R		R	
+573_14227		S			R	R			S	R	S	R	
+573_14228		R			R	R			R	R	R	R	
+573_14229					R	R			R		S	R	S
+573_14230					R	R			S	R	S	R	
+573_14232		S			R	R			S	R	S	R	
+573_14233	R	R			R	R			S	R	S	R	
+573_14234		S			R	R			R	R	R	R	
+573_14235		R	S		R	R			S		S		
+573_14236		S			R	R			R	R	R	R	
+573_14237		R	S		R	R			S		S		
+573_14238		R			R	R			R	R	R	R	
+573_14239		R			R	R			R	R	R	R	
+573_14240		R			R	R			R	R	R	R	
+573_14241		R			R	R			S	R	S	R	
+573_14242	R	R			R	R			R	R	R	R	
+573_14243		R			R	R			R	R	R	R	
+573_14244		R	S		R	R			S	R	S	R	
+573_14245		R			R	R			S	R	S		
+573_14246		R			R	R			R	R	R	R	
+573_14247					R	R			R	R	R	R	
+573_14248					R	R			S	R	S	R	
+573_14249		R	S		R	R			S	R	S	R	
+573_14250	R	R			R	R			R	R	R	R	
+573_14251		R			R	R			R	R	R	R	
+573_14252		S			R	R			R	R	R	R	
+573_14253		R			R	R			S	R	S	R	
+573_14254		R			R	R			R	R	R	R	
+573_14255		R			R	R			R	R	R	R	
+573_14256	R				R	R			R	R		R	S
+573_14257		R	S		R	R			S	R	S		
+573_14258		R	S		R	R			S	R	S		
+573_14259		R	S		R	R			S	R	S	R	
+573_14260		R			R	R			R	R	R	R	
+573_14261			S		R	R			S	R	S	R	
+573_14262		R			R	R			S	R		R	
+573_14263	R	R			R	R			R	R	R	R	
+573_14264		S			R	R			R	R	R	R	
+573_14265			S		S				S	R	S	R	
+573_14266	R	R			R	R			R	R	R	R	
+573_14267			S		R	R			S	R	S		
+573_14268		S			R	R			R	R	R	R	
+573_14269	R	R			R	R			R	R	R	R	
+573_14270		R	S		R	R			S	R	S		S
+573_14271			S		R	R			S	R	S	S	
+573_14272		S			S				S	R	S		
+573_14273		R			R	R			S	R	S	R	
+573_14274					R	R			S	R	S	R	
+573_14275		R			R	R			S	R	S	R	
+573_14276	R	S			R	R			R	R	R	R	
+573_14277		R	S			R			S		S		
+573_14278		R			R	R			S	R	S	R	
+573_14279		R	S		R	R			S	R	S		
+573_14280		R			R	R			R	R	R	R	
+573_14281		R			R	R			R	R	R	R	
+573_14282		S			R	R			S	R	S	R	
+573_14283	R	R			R	R			S	R	S	R	
+573_14284		R			R	R			R	R	R	R	
+573_14285		S			R	R			S	R	S	R	
+573_14286		S			R	R			S	R	R	R	
+573_14287		S	S		R	R			S	R	S	R	
+573_14288		R	S		R	R			S	R	S	R	S
+573_14289		S			R	R			S	R	S	R	
+573_14290		R			R	R			R	R	R	R	
+573_14291		R			R	R			S	R	S	R	
+573_14292		R			R	R			R	R	R	R	
+573_14293					R	R			S	R	S	R	
+573_14294	R	R			R	R			R	R	R	R	
+573_14295		S	S		R	R			S	R	S	R	
+573_14296		R			R	R			R	R	R	R	
+573_14297		R			R	R			S		S		
+573_14298		R	S		R	R			S	R	S		
+573_14299		R	S		R	R			S	R	S	R	
+573_14300		R	S		R	R			S	R	S		
+573_14301	R				R	R			R	R	R	R	
+573_14302		S			S				S		S	R	
+573_14303		R			R	R			R	R	R	R	
+573_14304		R	S		R	R			S		S		
+573_14305		S	S		S				S		S	S	S
+573_14306	R	R			R	R			R	R	R	R	
+573_14307		R			R	R			S	R	S	R	
+573_14308	R	R			R	R			S	R	R	R	
+573_14309		S			S	R			S		S		S
+573_14310		R			R	R			R	R	R	R	
+573_14311		R			R	R			R	R	R	R	
+573_14312		R			S				S	R	S	R	
+573_14313		R			R	R			R	R	R	R	
+573_14315		R			R	R			R	R	R	R	
+573_14316		R			R	R			R	R	R	R	
+573_14317		R			R	R			R	R	R	R	
+573_14319		S			R	R			S	R	S	R	S
+573_14320					R	R			S	R	S	R	
+573_14321		R			R	R			R	R	R	R	
+573_14322		R			R	R			S	R	S	R	S
+573_14323					R	R			S	R	S		
+573_14324			S		R	R			S		S	S	
+573_14325		S			R	R			S	R	S	R	
+573_14326			S		R	R			S	R	S		
+573_14327		R	S		R	R			S	R	S	S	
+573_14328		S			S				S		S		
+573_14329		R			R	R			R	R	R	R	
+573_14331		S	S		R	R			S	R	S	R	
+573_14332		R	S		R	R			S	R	S		
+573_14333		R			R	R			S	R	S	R	
+573_14334		R	S		R	R			S		S	R	S
+573_14335		R			R	R			S	R	S		
+573_14336		R			R	R			S	R	S	R	S
+573_14337		S			R	R			S	R	S	R	
+573_14338		S	S		R	R			S		S	S	
+573_14339					R	R			R	R	R	R	
+573_14340		R			R	R			S	R	S		S
+573_14341		S			R	R			S	R	S		
+573_14342		R			R	R			R	R	R	R	
+573_14343		R	S		R	R			S	R	S		
+573_14344		R	S		R	R			S		S		
+573_14345		R			R	R			S	R	S		
+573_14346		S			R	R			S	R	S	R	
+573_14347					R	R			S	R		R	
+573_14348		R			R	R			S	R	S	R	
+573_14349		R			R	R			S	R	S		
+573_14350		R			R	R			S	R	S		
+573_14351		S			R	R			S	R	S		
+573_14352		S			R	R			R	R	R	R	
+573_14353	R	R			R	R			R	R	R	R	
+573_14354	R	R			R	R			R	R	R	R	
+573_14355		S			R	R			S	R	S	R	
+573_14356		R			R	R			S	R	S	R	
+573_14357		R			R	R			R	R	R	R	
+573_14358		R			R	R			S	R	S	R	
+573_14359		R			R	R			S	R	S	S	
+573_14360		R			R	R			R	R	R	R	
+573_14361					R	R			S	R	S	R	
+573_14362		R			R	R			R	R	R	R	
+573_14363		R	S		R	R			S		S		
+573_14364	R	R			R	R			R	R	R	R	
+573_14365		S			S				S		S		S
+573_14366		R	S		R	R			S	R	S	S	
+573_14367		R			R	R			S	R	S		S
+573_14368	R	R			R	R			R	R	R	R	
+573_14369		S	S		R	R			S	R	S		S
+573_14371	R	R			R	R			R	R	R	R	
+573_14372		R	S		R	R			S	R	S	S	
+573_14373		R	S		R	R			S	R	S	R	
+573_14375		R			R	R				R			
+573_14376			S		R	R			S		S	S	S
+573_14377		S			R	R			R	R	R	R	
+573_14378	R	S			R	R			R	R	R	R	
+573_14379		R			R	R			S	R	S		
+573_14380		S			R	R			S	R	S	R	
+573_14381		R	S		R	R			S	R	S		
+573_14382		R			R	R			R	R	R	R	
+573_14383		R			R	R			S	R	S		S
+573_14384		S			R	R			S	R	S	R	
+573_14385		R			R	R			R	R	R	R	
+573_14386					R	R			S	R	S		
+573_14387		S			S				S		S		S
+573_14388		R			R	R			R	R	R	R	
+573_14389		S			R	R			S	R	S	R	
+573_14390		R			R	R			R	R		R	
+573_14391		R			R	R			S	R	S	R	
+573_14392		R	S		R	R			S	R	S	S	
+573_14393		R			R	R			R	R	R	R	
+573_14394		R			R	R			R	R	R	R	
+573_14395					R	R			S	R	S	R	
+573_14396					R	R			S	R	S		
+573_14397		R	S		R	R			S		S	S	
+573_14398		R	S		R	R			S	R	S	S	S
+573_14399					R	R			R	R	R	R	
+573_14400			S		R	R			S	R	S	R	
+573_14401		R			R	R			R	R	R	R	
+573_14402		R	S		R	R			S		S		
+573_14403		S	S		R	R			S	R	S	R	
+573_14404		R	S		R	R			S	R	S	R	S
+573_14405		R			R	R			S	R	S		
+573_14406					R	R			R	R	R	R	
+573_14407		R			R	R			R	R	R	R	
+573_14408		R	S		R	R			S		S		
+573_14409			S		R	R			S	R	S	S	
+573_14410			S		R	R			S		S	S	
+573_14411		R	S		S	R			S		S	S	
+573_14412		S			R	R			S	R	S	R	
+573_14413		R	S		R	R			S	R	S	R	S
+573_14415		R			R	R			S	R	S		
+573_14416		R			R	R			S	R	S		
+573_14417		R			R	R			R	R	R	R	
+573_14418		S			R	R			R	R	R	R	
+573_14419		S			R	R			R	R	R	R	
+573_14420		S			R	R			S		S	R	S
+573_14421		R	S		R	R			S	R	S		
+573_14422		S			R	R			R	R	R	R	
+573_14423		R	S		R	R			S		S		
+573_14424		R	S		R	R			S	R	S		
+573_14425			S		R	R			S	R	S	S	
+573_14426		S			R	R			R	R	R	R	
+573_14427		R	S		R	R			S		S		
+573_14428		R			R	R			R		R	R	S
+573_14429			S			R			S		S		
+573_14430		R			R	R			R	R	R	R	
+573_14431		R			R	R			R		R	R	
+573_14432		R	S		R	R			S	R	S	R	
+573_14433		S			R	R			R	R	R	R	
+573_14434	R	R			R	R			S	R	R	R	
+573_14435		R			R	R			R		S	R	
+573_14436		R			R	R			S	R	S	R	
+573_14437		R			R	R			R	R	R	R	
+573_14438		S			R	R			R	R	R	R	
+573_14439		R			R	R			S	R	S	R	
+573_14440			S		R	R			S		S	S	S
+573_14441	R		S		R	R			S	R	S		
+573_14442		S			R	R			R	R	R	R	
+573_14443		R	S		R	R			S		S	S	
+573_14444		R			R	R			S	R	S	R	
+573_14445		R	S		R	R			S		S		
+573_14446		S			R	R			R	R	R	R	
+573_14447					R	R			R	R	R	R	
+573_14448		S			R	R			S	R	S		
+573_14449					R	R			S	R	S	R	
+573_14450		R			R	R			S	R	S		S
+573_14451	R		S		R	R			S	R	S		
+573_14452		S			R	R			R	R	R	R	
+573_14453		S	S		S				S	R	S	S	
+573_14454			S		S	R			S		S	S	S
+573_14455		R			R	R			R	R	R	R	
+573_14456		R			R	R			R	R	R	R	
+573_14457		R			R	R			R	R	R	R	
+573_14458		R			R	R			S	R	S	R	
+573_14459		S			R	R			S	R	S	R	
+573_14460		S			R	R			R	R	R	R	
+573_14461			S		R	R			S	R	S		
+573_14462	R		S		R	R			S	R	S	S	
+573_14463			S			R			S		S	R	S
+573_14464		R			R	R			S	R	S	R	
+573_14465	R	R			R	R			R	R	R	R	
+573_14466	R		S		R	R			S	R	S		
+573_14467		S			R	R			S	R	S		
+573_14468		R	S		R	R			S	R	S		
+573_14469		R			R	R			R	R	R	R	
+573_14470					R	R			S	R	S	R	
+573_14471		S			R	R			R	R	R	R	
+573_14472		R			R	R			R	R	R	R	
+573_14473		R	S		R	R			S	R	S	R	
+573_14474		R	S		R	R			S	R	S	S	S
+573_14475		R			R	R			R	R	R	R	S
+573_14477	R	R			R	R				R	R	R	
+573_14478		S			R	R			S	R	S	R	
+573_14479			S		S	R			S		S	S	
+573_14480		R			R	R			R	R	R	R	
+573_14481		R	S		R	R			S	R	S		
+573_14482			S		R	R			S	R	S	S	S
+573_14483					R	R			R	R	R	R	S
+573_14484					R	R			S	R	S	R	
+573_14485		R			R	R			R	R	R	R	
+573_14486					R	R			S	R	S	R	
+573_14487			S		R	R			S	R	S	S	S
+573_14488		S	S		R	R			S	R	S	S	S
+573_14489		R	S		R	R			S	R	S		S
+573_14490		R	S		R	R			S	R	S	S	
+573_14491		R			R	R			S	R	S	R	
+573_14492		S			R	R			R	R	R	R	
+573_14493		S	S		S				S		S	R	S
+573_14494		S			R	R			S	R	S	R	
+573_14495		R	S		R	R			S	R	S	R	S
+573_14496		S	S		R				S	R	S	R	
+573_14497		R			R	R			R	R	R	R	
+573_14498	R	R			R	R			R	R	R	R	
+573_14499			S		R	R			S		S	R	
+573_14500		R			R	R			R	R	R	R	
+573_14501		S			R	R			R	R	R	R	
+573_14502					R	R			R	R	R	R	
+573_14503					R	R			R	R	S	R	
+573_14504		S	S		R	R			S	R	S	R	
+573_14505		R	S		R	R			S		S		
+573_14506						R			R	R	R		
+573_14507		R			R	R			R	R	R	R	
+573_14508			S		R	R			S	R	S	R	
+573_14509	R	R			R	R			R	R	R	R	
+573_14510		R	S		R	R			S		S		
+573_14511			S			R			S	R	S	S	S
+573_14512					R	R			R	R	R	R	
+573_14513		S			R	R			R	R	R	R	
+573_14514		R	S		R	R			S		S		
+573_14515		R	S		R	R			S		S		
+573_14516		R			R	R			R	R	R	R	
+573_14517		R			R	R			R	R	R	R	
+573_14518		R	S		R	R			S		S		
+573_14519		R	S		R	R			S	R	S	R	S
+573_14520		S			R	R			R	R	R	R	
+573_14521		S			R	R			R	R	R	R	
+573_14522		R	S		R	R			S	R	S	R	S
+573_14524			S		R	R			S	R	S	R	S
+573_14525		R			R	R			S	R	S	R	
+573_14526					R	R			R	R	R	R	
+573_14527		R	S		R	R			S		S	R	
+573_14528		S			R	R			R	R	R	R	
+573_14529		R			R	R			S	R	S	R	
+573_14530		R			R	R			R	R	R	R	
+573_14531			S		R	R			S	R	S	R	
+573_14532		R	S		R	R			S	R	S		
+573_14533		S	S		R	R			S	R	S	R	
+573_14534		R	S		R	R			S	R	S	S	
+573_14535		R	S		R	R			S	R	S	R	
+573_14536	R		S		R	R			S	R	S	R	S
+573_14537		R			R	R			R	R	R	R	S
+573_14538		S			R	R			S	R	S	R	
+573_14539		R			R	R			S	R	S		
+573_14540		S			R	R			R	R	R	R	
+573_14541		R			R	R			S	R	S	R	
+573_14542		R			R	R			R	R	R	R	
+573_14543		R	S		R	R			S	R	S		S
+573_14544		R	S		R	R			S		S		
+573_14545		R			R	R			R	R	R	R	
+573_14546		R	S		R	R			S		S	S	
+573_14547		R			R	R			R	R	R	R	
+573_14548		R	S		R	R			S	R	S	R	S
+573_14549					R	R			R	R	R	R	S
+573_14550		R	S		R	R			S		S	R	
+573_15042	S	R			R	R		R	R	R	R	R	R
+573_15043		R			R	R		R	R	R	R	R	R
+573_15044		R	R		R	R		R		R	R	R	R
+573_15107		R	R		R	R		R	R	R			R
+573_15217		R	R		R	R		R	R	R	R	R	R
+573_15420		R	R		R	R		R	R	R	R	R	R
+573_1719							R		R		R		
+573_1720							S		R		R		
+573_1721									R		R		
+573_1722					R		S		R	R	R		
+573_1723	R				R			R	R	R	R		
+573_1724					R				R	R	R		
+573_1725	R				R				R	R			
+573_1726	S						R	R	R		R		
+573_1727	S						R	R	R		R		
+573_1728	S						R	R	R		R		
+573_1729	S						R	R	R		R		
+573_1730	S						R	R	R		R		
+573_1731	S						R	R	R		R		
+573_1732	S						R	R	R		R		
+573_1733							R		R		R		
+573_1734							R		R		R		
+573_17914		R		S	R	R		R	R	R	R	R	R
+573_17915		R		S	R	R		R	R	R	R	R	R
+573_17927	S	R			R	R		R	R	S	R	R	S
+573_18086	S	R		S	R	R		S	S	R	S	R	R
+573_18087		R		S	R	R		R	R	R	R	R	R
+573_18472	S		S		R	R				S	S		R
+573_18476					R	R	S	R	S			R	R
+573_18477	R				R	R	S	R	R	R	R	R	R
+573_18541	S		R			R	R	R	R	R			
+573_18542	S	R			R	R		S	S	R	S	R	S
+573_18680		R		S	R	R		R	R	R	R	R	R
+573_19877		R		R	R	R		R	R	R	R	R	
+573_20059		R			R	R			R	S	R	R	R
+573_20060		R	R		R	R		R	R	R	R	R	R
+573_20061	S				S			R	R	S	R	R	S
+573_20064		R			R	R		R		R	R	R	R
+573_24243	R	R				R		R	R	R	R		R
+573_24244	S		R		R	R		R		R	R	R	R
+573_24245												R	R
+573_24246	S		R		S	R		R			S		R
+573_24247	R	R				R		R	R	R	R		R
+573_24249	S		R		R	R		R			R	R	
+573_24250	S	S	R		S	S					S		
+573_24255	S	S	S		S	S				S	S	S	
+573_24256	R	R				R		R	R	R	R		R
+573_24258	S	R				R		R	R	R	R		
+573_24259		S	S		R	R					S		R
+573_24260	R	R				R		R		R	R		R
+573_24261	S	R				R		R	R	R	R		S
+573_24262	S		R		R	R				R		R	R
+573_24263	R	R	S			R		R		R	S		
+573_24264			R		R	R				R	R	R	R
+573_24266	S		S		R	R					S	S	
+573_24267												R	R
+573_24268	S		S		R	R					S	S	R
+573_24269	S							R	R	S	R		S
+573_24270		S	S		R	R				R	S		R
+573_24271	R	R				R		R	R	R	R		R
+573_24272	S	R				R		R		R			R
+573_24273	S	S	S		S	R				R	S		R
+573_24274		R				R		R	R	R	R		S
+573_24275	S		S		R	R				R	S		
+573_24276		R				R		R	R	R	R		S
+573_24277	R	R				R		R		R	R		R
+573_24278		R				R		R	R	R	R		S
+573_24279	S		S		R	R					S	S	R
+573_24280	S	R				R		R	S	R	R		R
+573_24281	S		S		R	R					S		R
+573_24282	S		S		R	R					S		R
+573_24283	S		R		R	R				R	S	R	
+573_24284			S			R					S		R
+573_24285	S		S		S	R					S	S	R
+573_24286	R		R		R	R				R	S	R	R
+573_24287			S		S	R					S	S	R
+573_24288	S		R		R	R				R	R	R	R
+573_24289	S		R		R	R				R	R	R	R
+573_24291			R		R	R				R		R	R
+573_24292			R		R	R				R	S		R
+573_24293	S		S		R	R				R	S		R
+573_24294	S				R	R				R	S		R
+573_24295					R	R				R	S		
+573_24296		S	S		S	R					S	S	R
+573_24297	R	R				R		R	R				R
+573_24298			S		R	R				R	S	R	R
+573_24299	S	S	S		R	R				S	S		
+573_24300			S		R	R				R	S	R	R
+573_24301	R		S		R	R				R	S	R	R
+573_24302	S		S		R	R				S	S	S	
+573_24303			R		R	R					R	R	R
+573_24304			R		R	R				R	S	R	R
+573_24305	S		R		R	R						R	R
+573_24306	S		R		R	R						R	R
+573_24307	S		R		R	R				R		R	R
+573_24308	S		R		R	R				R		R	R
+573_24310	R	R				R		R					R
+573_24312	R		R		R	R				R	S	R	
+573_24314												R	
+573_24315		R				R		R	R	R	R		S
+573_24316	R	R				R		R	R	R	R		R
+573_24317	S	R	R		R	R				R		R	R
+573_24319	R				R	R		R	R	R		R	
+573_24322					R	R		R	R	R		R	
+573_24324					R	R		R	R	R		R	
+573_24325					R	R		R	R	R		R	
+573_24326		R	R		R	R		R	R	R	R	R	R
+573_24327		R	R		R	R		R	R	R	R	R	S
+573_24328	S		R		R	R		R	R	R	R	R	R
+573_24329	S	R	R		R	R		R	R	R	R	R	R
+573_24330	R	R	R		R	R		R	S	R		R	R
+573_24331		R	R		R	R		R	R	R	R	R	R
+573_24332	S	R			R	R		R	R	R	R	R	R
+573_24333		R	R		R	R		R	R	R	R	R	R
+573_24334	S	R	S		R	R		R	R	S	R	R	
+573_24335		R	R		R	R		R	R	R	R	R	R
+573_24336		R	R		R	R		R	R	R	R	R	R
+573_24337	S	R			R	R		R		R	S	R	R
+573_24338	S	R	R		R	R		R	R	R	R	R	S
+573_24339		R	R		R	R		R	R	R	R	R	R
+573_24340	R	R	R		R	R		R	R	R	R	R	R
+573_24341	S	R	R		R	R		R	R	R	R	R	R
+573_24342			S		R	R		R	R		R	R	S
+573_24343	R	R	R		R	R		R	R	R	R	R	R
+573_24344	S	R	R		R	R		R	R	R	R	R	R
+573_24345		R	R		R	R		R	R	R	R	R	R
+573_24346		R	R		R	R		R	R	R	R	R	
+573_24347		R	R		R	R		R	R	R	R	R	R
+573_24348	S				R	R		R	R		R	R	R
+573_24349	S	R	R		R	R		R	S	R		R	R
+573_24350		R	R		R	R		R	R	R	R	R	R
+573_24351	S	R	R		R	R		R	R	R	R	R	R
+573_24352		R	R		R	R		R	R	R	R	R	R
+573_24353	S	R	S		R	R		R	R		R	R	R
+573_24354	S	R	R		R	R		R	R	R	R	R	R
+573_24355		R	R		R	R		R	R	R	R	R	R
+573_24356		R	R		R	R		R	R	R	R	R	R
+573_24357	S	R	R		R	R		R	R	R	R	R	R
+573_24358		R	R		R	R		R	R	R	R	R	R
+573_24359		R	R		R	R		R	R	R	R	R	
+573_24360		R	R		R	R		R	R	R	R	R	R
+573_24361	S		R		R	R		R	R		R	R	S
+573_24362	S	R	S		R	R		R	R	R		R	R
+573_24363	S	R	R		R	R		R	R	R	R	R	R
+573_24364			R		R	R		R	R	R	R	R	R
+573_24365	S		R		R	R		R	R	R	R	R	R
+573_24366		R	R		R	R		R	R	R	R	R	R
+573_24367	S		R		R	R		R	R	R	R	R	R
+573_24368		R	R		R	R		R	R	R	R	R	S
+573_24369	S	R	R		R	R		R	S	R	S	R	R
+573_24370		R	R		R	R		R	R	R	R	R	R
+573_24371	R	S	R		R	R		R	R	R			R
+573_24372		R	R		R	R		R	R	R	R	R	R
+573_24373	S	R	R		R	R		R	R	R	R	R	
+573_24374		R	R		R	R		R	R	R	R	R	R
+573_24375		R	R		R	R		R	R	R	R	R	R
+573_24376	S	R	R		R	R		R	R	S	R	R	S
+573_24377	S	R	R		R	R				R	S		R
+573_24378		R	R		R	R		R	R	R	R	R	R
+573_24379		R	R		R	R		R	R	R	R	R	R
+573_24380		S	R		S	S		S	S	R	S	R	R
+573_24381	S	S			R	R		S	S		S	S	S
+573_24382		R	R		R	R		R	R	R	R	R	
+573_24383		R	R		R	R		S	S	R	S	R	R
+573_24384	S	S	S		S	S		S	S	S	S	S	S
+573_24385			R		R	R		R	R	R	R	R	R
+573_24386	S	S	S		R	R		S	S	R	S	S	
+573_24387	S	R	R		R	R		R	R	R	R	R	R
+573_24388	S	R	R		R	R		S	S	R	S	R	S
+573_24389		R	R		R	R		R	R	R	R	R	R
+573_24390					R	R		R	R	R	R	R	R
+573_24391	S	R	R		R	R		R	R	R	R	R	R
+573_24392	S	R	R		R	R		R	R	R	R	R	R
+573_24393	S	R	R		R	R		R	R	R	R	R	R
+573_24394	S	R	R		R	R		R	R	R	R	R	R
+573_24395	S	R	R		R	R		R	R		R	R	S
+573_24396	S	R	R		R	R		R	R	R	R	R	
+573_24397	S				R	R		R	R	S	R	R	S
+573_24398		R	R		R	R		R	R	R	R	R	R
+573_24399		R	R		R	R		R	R	R	R	R	R
+573_24401		R	R		R	R		R	R	R	R	R	R
+573_24402	S	R	R		R	R		R	R	R	R	R	R
+573_24403		R	R		R	R		R	R	R	R	R	R
+573_24404	S	R	R		R	R		R	R	R	R	R	R
+573_24405		R	R		R	R		R	R	R	R	R	R
+573_24406		R	R		R	R		R	R	R	R	R	R
+573_24407	S	R	R		R	R		R	R	R	R	R	S
+573_24408	S		R		R	R		R	R	R	R	R	R
+573_24409		R	R		R	R		R	R	R	R	R	
+573_24410		R	R		R	R		R	R	R	R	R	R
+573_24411	S	R	R		R	R		R	R	R	R	R	R
+573_24412		R	R		R	R		R	R	R	R	R	R
+573_24413	R	R			R	R		R	R	R	R	R	R
+573_24414		R	R		R	R		R	R	R	R	R	R
+573_24415			R		R	R		R	R	R	R	R	R
+573_24416		R	R		R	R		R	R	R	R	R	R
+573_24417			R		R	R		R	R	R	R	R	
+573_24418			R		R	R		R	R	R	R	R	S
+573_24419		R			R	R		R	R		R	R	R
+573_24420	S	R	R		R	R		R	R	R	R	R	R
+573_24421		R	R		R	R		R	R	R	R	R	R
+573_24422		R	R		R	R		R	R	R	R	R	
+573_24423		R	R		R	R		R	R	R	R	R	R
+573_24424		R	R		R	R		R	R	R	R	R	R
+573_24425		R	R		R	R		R	R	R	R	R	S
+573_24426		R	R		R	R		R	R	R	R	R	R
+573_24427	S		R		R	R		R	R	R	R	R	R
+573_24428	R	R	R		R	R		R	R	R	R	R	R
+573_24429		R	R		R	R		R	S	R		R	R
+573_24430			R		R	R		R	R	R	R	R	R
+573_24431	S	R	R		R	R		R	R	R	R	R	R
+573_24432		R	R		R	R		R	R	R	R	R	R
+573_24433	S	R	R		R	R		R	R	R	R	R	R
+573_24434		R	R		R	R		R	R	R	R	R	R
+573_24435	R	R	R		R	R		R	R	R	R	R	R
+573_24436		R	R		R	R		R	R	R	R	R	
+573_24437		R	R		R	R		R	R	R	R	R	R
+573_24438		R	R		R	R		R	R	R	R	R	R
+573_24439	S	R	R		R	R		R	R	R	R	R	R
+573_24440		R	R		R	R		R	R	R	R	R	R
+573_24441	S	R			R	R		R	R	R	R	R	R
+573_24442	S	R	R		R	R		R	S	R		R	R
+573_24443	S	R	R		R	R		R	R	R	R	R	R
+573_24444		R	R		R	R		R	R	R	R	R	R
+573_24445		R	R		R	R		R	R	R	R	R	R
+573_24446	S	R	R		R	R		R	S	R		R	R
+573_24447	S	R	R		R	R		R	R	R	R	R	R
+573_24448		R			R	R		R	R	R	R	R	R
+573_24449		R	R		R	R		R	R	S	R	R	
+573_24450		R	R		R	R		R	R	R	R	R	R
+573_24451		R	R		R	R		R	R	R	R	R	R
+573_24452	R	R	R		R	R		R	R	R	R	R	R
+573_24453		R	R		R	R		R	R	R	R	R	R
+573_24454	R	R	R		R	R		R	R	R	R	R	R
+573_24455		R	R		R	R		R	R	R	R	R	R
+573_25568		R	R		R		S		R		R	R	R
+573_25569			R		R		S		R		R	R	R
+573_25927	S			S	S	R		R		S		R	S
+573_29861	R			S			S		R		R		R
+573_29862	R			S			S		R		R		R
+573_29863	R			S			R		R		R		
+573_29864				S			S		R		R		R
+573_29865				S			S		R		R		R
+573_29866	S			S			S		R		R		
+573_29867	R			S			S		R		R		R
+573_29868	R			S			S		R		R		
+573_29869				S			S		R		R		R
+573_29870	R			S			R		R		R		R
+573_29871				S			S		R		R		R
+573_29872				S			S		R		R		
+573_29873	R			S			S		R		R		R
+573_29874	S			S			S		R				R
+573_29875	R			S			S		R		R		
+573_29876	S			S			R		R				R
+573_29877				S			R		R		R		R
+573_29878	S			S			S		R		R		
+573_29879	S			S			S						
+573_29880	S			S			R		R		R		R
+573_29881	S			S			R		R				R
+573_29882	S			S			S		R				R
+573_29883	S			S			S		R		R		
+573_29884	S			S			S		R				R
+573_29885	S			S			S		R				R
+573_29886				S			S		R		R		
+573_29887				S			S		R				
+573_29888				S			R		R		R		R
+573_29889	S			S			S		R		R		R
+573_29890	S			S			R		R		R		R
+573_29891	S			S			R		R				R
+573_29892	S			S			S		R		R		
+573_29893				S			R		R		R		
+573_29894	S			S			S		R				R
+573_29895	S			S			S		R				
+573_29896				S			S		R		R		R
+573_29897				S			S		R		R		
+573_29898				S			S		R		R		R
+573_29899				S			R		R		R		R
+573_29900	S			S			S		R				
+573_29901	S			S			R		R		R		
+573_29902				S			R		R		R		
+573_29903				S			R		R		R		R
+573_29904				S			R		R		R		
+573_29905	R			S			R		R		R		
+573_29906				S			S		R		R		R
+573_29907	S			S			S		R		R		R
+573_29908				S			S		R		R		R
+573_29909				S			S		R		R		R
+573_29910				S			R		R		R		R
+573_29911				S			S		R		R		R
+573_29912				S			S		R		R		R
+573_29913				S			S		R		R		R
+573_29914				S			S		R		R		
+573_29915	S			S			R		R		R		
+573_29916	R			S			R		R		R		
+573_29917				S			S		R		R		R
+573_29918	S			S			S						R
+573_29919	R			S			R		R		R		R
+573_29920	S			S			R		R		R		R
+573_29921	S			S			S		R				
+573_29922				S			S		R		R		R
+573_29923	S			S			R		R		R		R
+573_29924	S			S			R		R		R		R
+573_29925	R			S			S		R		R		R
+573_29926				S			S		R		R		R
+573_29927	S			S			S		R				R
+573_29928				S			S		R		R		R
+573_29929				S			R		R		R		R
+573_29930				S			R		R		R		R
+573_29931				S			S		R		R		R
+573_29932	S			S			S		R		R		
+573_29933	R			S			R		R		R		R
+573_29934				S			R		R		R		
+573_29935	R			S			S		R		R		R
+573_29936	R			S			S		R				R
+573_29937	S			S			R		R				R
+573_29938	R			S			R		R		R		R
+573_29939	S			S			S		R		R		
+573_29940	S			S			R		R		R		R
+573_29941	R			S			S		R		R		R
+573_29942	S			S			S		R				
+573_29943				S			R		R		R		R
+573_29944				S			S		R		R		R
+573_29945	S			S			S		R				R
+573_29946				S			S		R				R
+573_29947	S			S			S		R				R
+573_29948	R			S			S		R		R		R
+573_29949	S			S			R		R		R		R
+573_29950	S			S			R		R				R
+573_29951				S			R		R		R		R
+573_29952				S			R		R		R		R
+573_29953	S			S			S						R
+573_29954				S			R		R		R		R
+573_29955				S			S		R		R		R
+573_29956	S			R			S		S				R
+573_29957	S			S			R		R		R		R
+573_29958	S			S			R		R		R		R
+573_29959	S			R			S		S				R
+573_29960	S			R			S		S				R
+573_29961	R			S			R		R		R		
+573_29962	S			S			R		R				R
+573_29963	S			S			S		R				R
+573_29964	S			S			S		R		R		
+573_29965	R			S			R		R		R		R
+573_29966				S			S		R		R		R
+573_29967	S			S			S		R		R		
+573_29968				S			R		R		R		R
+573_29969	R			S			R		R		R		R
+573_29970	S			S			S		R				
+573_29971	S			S			S		R				R
+573_29972	R			R			S		R		R		R
+573_29974	R			S			R		R		R		R
+573_29975	S			S			S		R		R		
+573_29976				S			R		R		R		R
+573_29977	R			S			S		R		R		R
+573_29978				S			S		R				R
+573_29979				S			R		R		R		R
+573_29980	R			S			S		R		R		R
+573_29981				S			R		R		R		R
+573_29982	R			S			R		R		R		R
+573_29983	S			S			S		R		R		
+573_29984				S			S		R		R		R
+573_29985	R			S			S		R		R		
+573_29986	S			S			S		R				R
+573_29987				S			S		R		R		R
+573_29988				S			R		R		R		R
+573_29989	S			S			S		R				R
+573_29990				S			R		R		R		R
+573_29991	S			S			R		R		R		R
+573_29992	R			S			R		R		R		
+573_29993				S			S		R				R
+573_29994	R			S			R		R		R		R
+573_29995	S			S			S		R				
+573_29996	R			S			R		R		R		
+573_29997				S			S		R		R		R
+573_29998	R			S			S		R		R		R
+573_29999	S			S			S		R				R
+573_30000	S			S			S		R		R		R
+573_30001	R			S			R		R				
+573_30002	S			S			S		R				R
+573_30003	S			S			S		R				R
+573_30004	R			S			S		R		R		R
+573_30005	R			S			S		R		R		R
+573_30006				S			S		R		R		R
+573_30007	R			S			R		R		R		R
+573_30008	R			S			R		R				
+573_30009	R			S			R		R		R		R
+573_30010	R			S			S		R		R		
+573_30011				S			R		R		R		R
+573_30012	R			S			R		R		R		
+573_30013	R			S			S		R		R		R
+573_30014	S			S			R		R		R		R
+573_30015				S			S		R		R		
+573_30016	S			S			S		R				
+573_30017	R			S			R		R		R		
+573_46829	R	R		R	R	R	S	R		R	R	R	R
+573_46831	S	R		R	R	R	S	R		R	R	R	R
+573_46832	R	R		R	R	R	S	R		R	R	R	R
+573_46833	R	R		R	R	R	S	R		R	R	R	R
+573_46834	S	R		R	R	R	S	R		R	R	R	
+573_46835	R	R		R	R	R	S	R		R	R	R	R
+573_46836	R	R		R	R	R	R	R		R	R	R	R
+573_46837	S	R		R	R	R	S	R		R	R	R	R
+573_46838	R	R		R	R	R	S	R		R	R	R	R
+573_46839		R		R	R	R	S	R		R	R	R	R
+573_46840	R	R		R	R	R	S	R		R	R	R	R
+573_46841	R	R		R	R	R	S	R		R	R	R	R
+573_46842	R	R		R	R	R	R	R		R	R	R	R
+573_46843	R	R		R	R	R	S	R		R	R	R	R
+573_46844	R	R		R	R	R	S	R		R	R	R	R
+573_46845	R	R		R	R	R	S	R		R	R	R	R
+573_46846	R	R		R	R	R	S	R		R	R	R	R
+573_46847	R	R		R	R	R	S	R		R	R	R	R
+573_46848	R	R		R	R	R	S	R		R	R	R	R
+573_46849	R	R		R	R	R	S	R		R	R	R	R
+573_46850	R	R		R	R	R	R			R	R	R	R
+573_46851	R	R		R	R	R	S	R		R	R	R	R
+573_46852	R	R		R	R	R	S	R		R	R	R	R
+573_46853	R	R		R	R	R	S	R		R	R	R	R
+573_46854	R	R		R	R	R	S	R		R	R	R	R
+573_46855	R	R		R	R	R	S	R		R	R	R	R
+573_46856	R	R		R	R	R	S	R		R	R	R	R
+573_46857	R	R		R	R	R	S			R		R	R
+573_46858	R	R		R	R	R	S	R		R	R	R	R
+573_46859	R	R		R	R	R	S	R		R	R	R	R
+573_46860	R	R		R	R	R	S	R		R	R	R	R
+573_46861	R	R		R	R	R	S	R		R	R	R	R
+573_46862	R	R		R	R	R	S	R		R	R	R	R
+573_46863	R	R		R	R	R	S	R		R	R	R	R
+573_46864	R	R		R	R	R	S	R		R	R	R	R
+573_46865	R	R		R	R	R	S	R		R	R	R	R
+573_46866	R	R		R	R	R	S	R		R	R	R	R
+573_46867	R	R		R	R	R	S	R		R	R	R	R
+573_46868	R	R		R	R	R	S	R		R	R	R	R
+573_46869	R	R		R	R	R	S	R		R	R	R	R
+573_46870	R	R		R	R	R	S	R		R	R	R	R
+573_46871	R	R		R	R	R	S	R		R	R	R	R
+573_46872	R	R		R	R	R	S	R		R	R	R	R
+573_46873	R	R		R	R	R	S	R		R	R	R	R
+573_46874	R	R		R	R	R	S	R		R	R	R	R
+573_46875		R		R	R	R	S	R		R	R	R	R
+573_46876	R	R		R	R	R	S	R		R	R	R	R
+573_46877	R	R		R	R	R	S	R		R	R	R	R
+573_5623			R		R		R		R		R	R	R
+573_5638	S		R		R		R		R		R	R	R
+573_5644			R		R		R		R		R	R	R
+573_5649	S	R	R			R		R	R	R	R		R
+573_5658	S		S		R						S		
+573_5661	S				S						S		
+573_5663	S	R	S		R						S	R	
+573_5665	S		S		R						S	R	
+573_5672	S		S		R						S	R	
+573_5673	S		S		R						S	S	
+573_5676	S	S	S		R						S	S	
+573_5677	S		S		R						S		
+573_5678	S		S		R						S	R	
+573_5679	S		S		R						S	R	
+573_5681	S		S		R						S	R	
+573_5682	S		R		R						S	R	
+573_5683	S	S	S		S						S	S	
+573_5684	S	S	S								S	R	
+573_5687	R		S		R						S	R	
+573_5690	S		S		R						S		
+573_5691	S	S	S		S						S	S	
+573_5692	S	R	S		R						S	R	
+573_5694	S	S	S								S	S	
+573_5695	S		S		R						S		
+573_5697	R		S		R						S	R	
+573_5698			R		R			R				R	
+573_5700	R		S		R						S	R	
+573_5701	S		S		R						S	R	
+573_5702	S	S	S		R						S	S	
+573_5705	S				R						S	R	
+573_5706	S	S	S		R						S	R	
+573_5707	S	S	R								S	S	
+573_5709	S		S		S						S	S	
+573_5710	S		S								S	R	
+573_5711	S	S	S		R						S	S	
+573_5712	S		S		R						S	S	
+573_5716	S		S		R						S	R	
+573_5717	S	S	R		R						S		
+573_5722	S	S	R		R						S		
+573_5724	S	S	S		R						S	S	
+573_5726	S	S	S								S	R	
+573_5763			R		R		R		R		R	R	R
+573_5764			R		R		R		R		R	R	R
+573_5765		R	R		R		S		R		R	R	R
+573_5767	R		R		R		R		R		R	R	R
+573_5768			R		R		R		R		R	R	R
+573_5769	R		R		R		R		R		R	R	R
+573_5777			R		R		R		R		R	R	R
+573_5778	R	R	R		R		S		R		R	R	R
+573_5779			R		R		R		R		R	R	R
+573_5780			R		R		R		R		R	R	R
+573_5781			R		R		R		R		R	R	R
+573_5793	S		S		R						S		
+573_5794			R		R						S	R	
+573_5795	S		S		R						S		
+573_5796	S	S			R						S	R	
+573_5797	S	R	S		R						S	R	
+573_5798	R		S		R						S	R	
+573_5799	S	S	S		R						S		
+573_5800	S				R						S	R	
+573_5801	S		R		R						S	R	
+573_5802	S		S		R						S	S	
+573_5803	S		S								S		
+573_5804	S	S	S		R						S	S	
+573_5805	S	R	R		R						S	R	
+573_5806	S		S		R						S		
+573_5807	S		S		R						S	R	
+573_5808	S		S		R						S	R	
+573_5809	S		S		R						S	S	
+573_5810	S	S	S		R						S		
+573_5811			R		R			R				R	
+573_5812	S		S		R						S		
+573_5813	S		S		R						S	S	
+573_5814	S		S		R						S	S	
+573_5815	S		S		R						S	R	
+573_5816	S		S		R						S		
+573_5817	S		S		R						S	R	
+573_5818	S		S		R						S		
+573_5819	S		S		R						S		
+573_5820	S		S		R						S		
+573_5821	S	S	R		R						S		
+573_5822	S	S	R		R						S		
+573_5823	S		S		R						S	R	
+573_5824	S	S	R		R			R				R	
+573_5825	S	S	R		R						S		
+573_5826	S	S	R		R						S		
+573_5827	S	S	S		R						S	S	
+573_5828	S	S	S		S						S	S	
+573_7022	S	R			R	R		R	S	R		R	R
+573_7023	S	R			R	R		R	S			R	S
+573_7024		R			R	R			S	R	S	R	R
+573_7025		R			R	R		R	R		S	R	
+573_7026	S	R	S		R	R		R	R	R	R	R	R
+573_7027	S	R			R	R		R	R	R	R	R	R
+573_7028		R			R	R		R	R	R	R	R	R
+573_7029		R			R	R		R	R	R	R	R	R
+573_7030	S	R			R	R		R	S	S		S	
+573_7033		R			R	R		R	S	R	R	R	R
+573_7096	S	S	S		S						S	S	
+573_9721		R	R		R	R		R	R	R	R	R	R
+573_9724		R			R	R		R	R	R	R	R	R
+574_20		R			R	R		R	R	R	R	R	R
+574_26	R	R				R		R	R		R		R
+72407_477	S	R	S		R			S			S		
+72407_478	S	R	S		R			S			S	R	
+72407_479	S	R	S		R			S			S	S	
+72407_480	S	R	S		R			S			S		
+72407_481		R			R			S			S	R	
+72407_482	S	R	S		R			S			S		
+72407_483	S	R			R			S			S	R	
+72407_484	R	R			R			S			S	R	
+72407_485	R	R	S		R			S			S	R	
+72407_487	R	R			R			S			S	R	
+72407_488	R	R			R			S			S	S	
+72407_489	S	R			R			S			S	R	
+72407_490	S	R	S		R			S			S	R	
+72407_491	R	R	R		R			R				R	
+72407_492	R	R	R		R			R				R	
+72407_493	R	R			R			S			S	R	
+72407_494	R	R			R			S			S	R	
+72407_495	S	R	S		R			S			S		
+72407_496	S	R	S		R			S			S	S	
+72407_497	R	R			R			S			S	R	
+72407_498	R	R	S		R			S			S	R	
+72407_499	S	R	S		R			S			S	R	
+72407_500	S	R	S		R			S			S	R	
+72407_501	S	S	S		R			S			S	R	
+72407_502	S	R	S		R			S			S		
+72407_503	R	R	S		R			S			S	R	
+72407_505	R	R			R			S			S	S	
+72407_506	R	R			R			S			S	R	
+72407_507		R	S		R			S			S	R	
+72407_508	R	R			R			S			S	R	
+72407_509	R	R	R		R			R				R	
+72407_510	S	R	S		R			S			S	S	
+72407_511	R	R	R		R			R				R	
+72407_512		R	S		R			S			S		
+72407_513	S	R	S		R			R				R	
+72407_515		R	S		R			S			S	R	
+72407_516		R	S		R			S			S		
+72407_517	S	R	S		R			S			S	S	
+72407_518		R	S		R			S			S		
+72407_519	R	R	S		R			S			S		
+72407_520		R	S		R			S			S		
+72407_522	S	R	S		R			S			S	S	
+72407_523	S	R	S		R			S			S	S	
+72407_524	R	R	R		R			R				R	
+72407_525		R	S		R			S			S		
+72407_526		R	S		R			S			S		
+72407_527		R	S		R			S			S	R	
+72407_528		R	S		R			S			S	R	
+72407_529	S	R	S		R			S			S	S	
+72407_530		R	S		R			S			S	R	
+72407_531	R	R	R		R			R				R	
+72407_532	R	R			R			S			S	R	
+72407_533	R	R	S		R			S			S	R	
+72407_534		R	S		R			S			S	R	
+72407_535	S	R	S		R			S			S	S	
+72407_536	S	R	S		R			S			S	R	
+72407_537	S	R	S		R			S			S	R	
+72407_538	R	R	S		R			S			S	R	
+72407_539	R	R	S		R			S			S	R	
+72407_540	R	R	S		R			S			S	R	
+72407_542	S	R	S		R			S			S	S	
+72407_543	R	R	S		R			S			S	R	
+72407_544	R	R	S		R			S			S	R	
+72407_545	R	R	S		R			S			S	R	
+72407_546	S	R	S		R			S			S	S	
+72407_547	S	R	S		R			S			S	S	
+72407_548	S	R	S		R			S			S	R	
+72407_550		R	S		R			S			S	R	
+72407_551	R	R	S		R			S			S	R	
+72407_552	S	R	S		R			S			S	S	
+72407_553		R	S		R			S			S	R	
+72407_554	S	R	S		R			S			S	R	
+72407_555	R	R			R			S			S	R	
+72407_556	S	R	S		R			S			S	R	
+72407_557	R	R			R			S			S		
+72407_558	R	R			R			S			S	R	
+72407_560	R	R	S		R			S			S	R	
+72407_561	R	R	S		R			S			S	R	
+72407_562	S	R	S		R			S			S	S	
+72407_563	S	R	S		R			S			S		
+72407_564	S	R	S		R			S			S	S	
+72407_565	R	R	S		R			S			S	R	
+72407_566	R	R	S		R			S			S	R	
+72407_567	S	R	S		R			S			S	S	
+72407_568		R	S		R			S			S	R	
+72407_570	R	R			R			S			S		
+72407_571	R	R			R			S			S	R	
+72407_572	S	R	R		R			R				R	
+72407_573		R	S		R			S			S	R	
+72407_575	R	R			R			S			S	R	
+72407_577	R	R			R			S			S	R	
+72407_578	S	R	S		R			S				R	
+72407_580	R	R	S		R			S			S	R	
+72407_581	R	R	S		R			S			S	R	
+72407_582	S	R	S		R			S			S		
+72407_583	S	R	S		R			S			S		
+72407_584	S	R	S		R			S			S	S	
+72407_585	S	R	S		R			S			S	R	
+72407_586	R	R	S		R			S			S	R	
+72407_587	S	R			R			S			S	R	
+72407_588	S	R	S		R			S			S		
+72407_589	R	R			R			S			S	R	
+72407_590	R	R	S		R			S			S	R	
+72407_592	R	R			R			S			S	R	
+72407_593	S	R	S		R			S			S	R	
+72407_594	S	S	S		S			S			S	S	
+72407_595	S	R	S		R			S			S	S	
+72407_596	R	R			R			S			S		
+72407_597	S	R	S		R			S			S		
+72407_698	R	R			R			S			S		
+1284787_3		R			R		S	R	R	R	R	R	R
+1284788_3		R			R		S	R	R	R	R	R	R
+1284789_4		R			R		R	R	R	R	R	R	S
+1284790_3		R			R		S	R	R	R	R	R	R
+1284791_4		R			R		S	R	R	R	R	R	R
+1284792_4					R		S	R	R	R	R	R	R
+1284793_4		R			R		S	R	R	R	R	R	R
+1284794_4					R		S	R	R	R	R	R	R
+1284795_4					R		S	R	R	R	R	R	R
+1284796_3	S	R			R		S	R	R	R	R	R	R
+1284797_4	S				R		S	R	R		R	R	S
+1284798_4	S				R		S	R	R	R	R	R	R
+1284799_4		R			R		R	R	R	R	R	R	R
+1284800_4		R			R		S	R	R	R	R	R	S
+1284801_3					R		S	R	R	R	R	R	R
+1284802_4		R			R		S	R	R	R	R	R	R
+1284803_4					R		S	R	R	R	R	R	R
+1284804_4		R			R		S	R	R	R	R	R	R
+1284805_4					R		S	R		R	S	R	R
+1284806_4					R		S	R	R	R	R		R
+1284807_4		R			R		S	R	R	R	R	R	R
+1284808_4		R			R		S	R	R	R	R	R	
+1284809_4		R			R		S	R	R	R	R	R	R
+1284810_3		R			R		S	R	R	R	R	R	R
+1284811_3		R			R		S	R	R	R	R	R	R
+1284812_3					R		R	R	R		R	R	R
+1284813_3		R			R		S	R	R	R	R	R	R
+1284814_3		R			R		R		S	R	S	R	R
+1284815_3		R			R		S	R	R	R	R	R	R
+1284816_3		R			R		R	R	R	R	R	R	R
+1284817_3		R			R		S	R	R		R	R	R
+1284818_4	S	R			R		R		S	R	S	R	R
+1284819_3		R			R		R	R	R	R	R	R	R
+1284820_3	S				R		S	R	R	R	R	R	R
+1284821_3		R			R		S	R	R	R	R	R	S
+1284822_3					R		S	R	R	R	R	R	R
+1284823_3		R			R		S	R	R	R	R	R	R
+1284824_3		R			R		S	R	R	R	R	R	
+1284825_3		R			R		S	R	R	R	R	R	R
+1284826_3		R			R		S	R	R	R	R	R	R
+1284827_3		R			R		S	R	R	R	R	R	R
+1284828_3		R			R		R	R	R	R	R	R	R
+1284829_3		R			R		S	R	R	R	R	R	R
+1284830_3		R			R		S	R	R	R	R	R	R
+1284831_3					R		S	R	R	R	R	R	R
+1284832_3		R			R		S	R	R	R	R	R	R
+1284833_4	S				R		S	R	R		R	R	S
+1284834_3	S				R		S	R			S	R	S
+1304916_4		R			R		S	R	R	R	R	R	R
+1304917_4	S	R			R		S	R	R	R	R	R	S
+1304918_4		R			R		S	R	R	R	R	R	R
+1304919_4		R			R		R	R	R	R	R	R	S
+1304920_3	R	R			R		S	R	R	R	R	R	S
+1304921_4		R			R		S	R	R	R	R	R	R
+1304922_3	S	R			R		S	R	R	R	R	R	S
+1304923_3	S				R		S	R	R	R	R	R	R
+1304924_3		R			R		S	R	R	R	R	R	S
+1328399_3											R		
